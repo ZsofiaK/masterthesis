@@ -4,7 +4,7 @@ Zsófia Katona
 MSc Information Studies, Data Science track, University of Amsterdam
 
 # Contents
-The thesis concerns action recognition to identify fish predator attacks in underwater video footage.
+The thesis concerns action recognition to identify fish predator attacks in video footage.
 
 This repository includes directories related to the implementation of the project.
 

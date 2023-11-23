@@ -1,5 +1,6 @@
 # Master Thesis
 Zsófia Katona
+
 MSc Information Studies, Data Science track, University of Amsterdam
 
 # Contents

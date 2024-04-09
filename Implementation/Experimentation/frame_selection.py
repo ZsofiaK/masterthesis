@@ -10,17 +10,19 @@ def count_frames(video_path):
 
   cap = cv2.VideoCapture(video_path)
 
-  # Check if the video capture object is opened successfully
-  if not cap.isOpened():
-      print(f"Error: Unable to open video file '{video_path}'")
-      return -1  # Return -1 if the video cannot be opened
+  frame_count = 0
 
-  # Get the total number of frames in the video
-  total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
+  while True:
+      ret, frame = cap.read()
 
-  cap.release()  # Release the video capture object
+      if not ret:
+          break
 
-  return total_frames
+      frame_count += 1
+
+  cap.release()
+
+  return frame_count
 
 def calculate_ssim(frame1, frame2):
     """Calculate Structural Similarity Index (SSIM) between two frames."""
@@ -90,7 +92,7 @@ def select_frames_ssim(video_path, nr_frames_to_select=10, max_ssim=0.95):
     cap.release()
     return keyframes, selected_indices
 
-def select_frames_evenly(video_path:str, num_frames:int=10):
+def select_frames_evenly(video_path:str, total_frames:int, num_frames:int=10):
     """
     Select evenly spaced frames from a video file.
     
@@ -98,12 +100,8 @@ def select_frames_evenly(video_path:str, num_frames:int=10):
     :param: num_frames: Number of frames to select (integer).
     :return: list of selected frame indices.
     """
-    cap = cv2.VideoCapture(video_path)
     
-    total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
+    selected_indices = np.linspace(0, total_frames - 1, num_frames, dtype=int).tolist()
     
-    selected_indices = np.linspace(0, total_frames - 1, num_frames, dtype=int)
-
-    cap.release()
     
-    return list(selected_indices)
+    return [item[0] for item in selected_indices]

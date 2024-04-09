@@ -103,5 +103,7 @@ def select_frames_evenly(video_path:str, num_frames:int=10):
     total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
     
     selected_indices = np.linspace(0, total_frames - 1, num_frames, dtype=int)
+
+    cap.release()
     
     return list(selected_indices)

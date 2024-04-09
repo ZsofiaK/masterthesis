@@ -96,7 +96,7 @@ def select_frames_evenly(video_path:str, num_frames:int=10):
     
     :param: video_path: Path to the video file as string.
     :param: num_frames: Number of frames to select (integer).
-    :return: list of selected frames represented as 3D numpy arrays.
+    :return: list of selected frame indices.
     """
     cap = cv2.VideoCapture(video_path)
     
@@ -104,16 +104,4 @@ def select_frames_evenly(video_path:str, num_frames:int=10):
     
     selected_indices = np.linspace(0, total_frames - 1, num_frames, dtype=int)
     
-    selected_frames = []
-    
-    # Read and append the selected frames
-    for index in selected_indices:
-        cap.set(cv2.CAP_PROP_POS_FRAMES, index)
-        ret, frame = cap.read()
-        if ret:
-            selected_frames.append(frame)
-    
-    # Release the video capture object
-    cap.release()
-    
-    return selected_frames, list(selected_indices)
+    return list(selected_indices)

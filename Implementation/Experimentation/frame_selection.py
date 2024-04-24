@@ -105,3 +105,56 @@ def select_frames_evenly(video_path:str, total_frames:int, num_frames:int=10):
     
     
     return [item[0] for item in selected_indices]
+
+def select_frames_motion_absdiff(video_path, total_frames=None, nr_frames=10):
+    """
+    Selects frames from a video based on motion.
+
+    :param: video_path: Path to the video file.
+    :param: total_frames: NOT NEEDED in this function, included for pipeline consistency.
+    :param: nr_frames: Number of frames to select.
+    :return: List of selected frame indices, sorted in ascending order.
+    """
+    cap = cv2.VideoCapture(video_path)
+
+    # Read the first frame
+    ret, prev_frame = cap.read()
+    if not ret:
+        print("Error: Could not read the first frame.")
+        return []
+
+    # Convert frame to grayscale
+    prev_frame = cv2.cvtColor(prev_frame, cv2.COLOR_BGR2GRAY)
+    frame_diffs = []
+    frame_indices = []
+
+    current_index = 1  # Start from the second frame
+
+    while True:
+        ret, frame = cap.read()
+        if not ret:
+            break
+
+        # Convert current frame to grayscale
+        current_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+
+        # Calculate the absolute difference between current and previous frame
+        diff = cv2.absdiff(current_frame, prev_frame)
+        sum_diff = np.sum(diff)  # Summing up the differences
+
+        frame_diffs.append(sum_diff)
+        frame_indices.append(current_index)
+
+        # Update previous frame
+        prev_frame = current_frame
+        current_index += 1
+
+    cap.release()
+
+    # Find indices of the frames with the highest motion
+    indices_sorted_by_motion = np.argsort(frame_diffs)[-nr_frames:]
+
+    # Convert indices to frame numbers, sort them, and return
+    selected_frame_numbers = [frame_indices[i] for i in sorted(indices_sorted_by_motion)]
+    
+    return selected_frame_numbers

@@ -2,6 +2,7 @@
 Zsófia Katona
 
 MSc Information Studies, Data Science track, University of Amsterdam
+Institute of Biodiversity and Ecosystem Dynamics
 
 # Contents
 The thesis concerns action recognition to identify fish predator attacks in video footage.

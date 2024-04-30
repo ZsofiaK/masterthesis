@@ -15,9 +15,21 @@ The directory includes the implementation of a programming exercise aimed to kic
 ## Tutorials
 The directory includes completed notebooks of tutorials related to Python libraries used in the study.
 
-## Experimentation
-The directory includes pilot notebooks and script for testing the modules used in the final pipeline.
-
 ## Implementation
 The directory includes the following sub-folders:
+
+### EDA
+The directory includes material related to Exploratory Data Analysis on the used datasets, most importantly Animal Kingdom (https://github.com/sutdcv/Animal-Kingdom).
+
+### Experimentation
+The directory includes pilot notebooks and script for testing the modules used in the final pipeline.
+
+### Modules
+The directory includes a collection of custom modules used in the pipeline.
+
+### Pipeline
+The directory includes notebook relating to each step of the pipeline (frame selection, feature extraction, action recognition).
+
+### Additional directories
+Auxilliary directories including generated figures and assets relating to the used datasets.
 

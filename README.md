@@ -2,6 +2,7 @@
 Zsófia Katona
 
 MSc Information Studies, Data Science track, University of Amsterdam
+
 Institute of Biodiversity and Ecosystem Dynamics
 
 # Contents

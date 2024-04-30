@@ -12,6 +12,9 @@ This repository includes directories related to the implementation of the projec
 ## Programming exercise
 The directory includes the implementation of a programming exercise aimed to kick-off the learning process of the technical aspects of the project.
 
+## Tutorials
+The directory includes completed notebooks of tutorials related to Python libraries used in the study.
+
 ## Experimentation
 The directory includes pilot notebooks and script for testing the modules used in the final pipeline.
 

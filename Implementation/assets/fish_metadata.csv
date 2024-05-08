@@ -19,6 +19,7 @@ S/N,video_id,type,list_animal_action,label
 546,AOPODKGZ,train,"[('Fish', 'Swimming')]",0
 563,APBTEZAA,train,"[('Pink Skunk Clownfish', 'Sensing')]",0
 587,APSJJPAB,train,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Being Carried In Mouth'), ('Dice Snake', 'Sensing')]",0
+619,AQMTLLHH,train,"[('African Clawed Toad', 'Moving'), ('Fish', 'Swimming')]",0
 624,AQPJHPDI,train,"[('Fish', 'Sensing')]",0
 629,AQTGZZAA,train,"[('Atlantic Blue Tang Fish', 'Swimming'), ('Atlantic Blue Tang Fish', 'Eating')]",0
 713,ATLLMPAB,train,"[('Dice Snake', 'Biting'), ('Common Bleak', 'Being Carried In Mouth')]",0

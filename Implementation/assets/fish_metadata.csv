@@ -1,0 +1,887 @@
+S/N,video_id,type,list_animal_action,label
+11,AAFWRPDI,train,"[('Fish', 'Swimming')]",0
+18,AAJNFNXN,train,"[('Fish', 'Swimming'), ('Orca', 'Swimming')]",0
+42,AATNWZAA,train,"[('Fish', 'Swimming'), ('Fish', 'Sensing')]",0
+97,ACFCJUPH,train,"[('Catfish', 'Swimming')]",0
+124,ADBJMPIF,train,"[('Sardine', 'Fleeing'), ('Sea Lion', 'Eating'), ('Sea Lion', 'Swimming'), ('Sardine', 'Swimming')]",1
+289,AHIRRPIF,train,"[('Salmon', 'Jumping'), ('Salmon', 'Being Carried In Mouth'), ('Grizzly Bear', 'Preying'), ('Grizzly Bear', 'Biting')]",0
+328,AIFRKUPH,train,"[('Danube Salmon', 'Swimming')]",0
+343,AIRLMXFE,train,"[('Giant Trevally', 'Swimming')]",0
+357,AJGNNPKL,train,"[('Fish', 'Swimming'), ('Fish', 'Sensing')]",0
+370,AJRRBKGZ,train,"[('Stonefish', 'Swimming')]",0
+433,ALMDJBSK,train,"[('Carcharias Taurus', 'Swimming'), ('Fish', 'Swimming')]",0
+485,AMXNIHVR,train,"[('Fish', 'Swimming'), ('Dice Snake', 'Attacking')]",0
+493,ANDAXPAB,train,"[('Dice Snake', 'Exploring'), ('Dice Snake', 'Biting'), ('Perch Fish', 'Walking'), ('Dice Snake', 'Walking'), ('Perch Fish', 'Flapping Tail'), ('Perch Fish', 'Struggling')]",1
+507,ANOGFCND,train,"[('Fish', 'Fleeing'), ('Snake', 'Attacking')]",1
+524,ANXUOFGA,train,"[('Fish', 'Swimming')]",0
+537,AOHPFFFP,train,"[('Fish', 'Swimming')]",0
+544,AONYWBSK,train,"[('Fish', 'Swimming'), ('Galeocerdo Cuvier', 'Swimming')]",0
+546,AOPODKGZ,train,"[('Fish', 'Swimming')]",0
+563,APBTEZAA,train,"[('Pink Skunk Clownfish', 'Sensing')]",0
+587,APSJJPAB,train,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Being Carried In Mouth'), ('Dice Snake', 'Sensing')]",0
+624,AQPJHPDI,train,"[('Fish', 'Sensing')]",0
+629,AQTGZZAA,train,"[('Atlantic Blue Tang Fish', 'Swimming'), ('Atlantic Blue Tang Fish', 'Eating')]",0
+713,ATLLMPAB,train,"[('Dice Snake', 'Biting'), ('Common Bleak', 'Being Carried In Mouth')]",0
+777,AVDGEFFP,train,"[('Archer Fish', 'Eating')]",0
+800,AVPJOUPH,train,"[('Sterlet Fish', 'Swimming')]",0
+814,AVYKTKGZ,train,"[('Fish', 'Swimming')]",0
+818,AWBAWZAA,train,"[('Fish', 'Keeping still')]",0
+888,AXWFGIKV,train,"[('Fish', 'Swimming'), ('Sea Snake', 'Swimming')]",0
+964,BAFESFFP,train,"[('Yellow Watchman Goby Fish', 'Keeping still')]",0
+987,BBBALPAB,train,"[('Perch Fish', 'Being Eaten'), ('Dice Snake', 'Eating')]",0
+1071,BDCOJPAB,train,"[('Vimba Fish', 'Dead')]",0
+1143,BFGAZCND,train,"[('Snake', 'Eating'), ('Fish', 'Being Eaten'), ('Fish', 'Escaping')]",0
+1159,BFRSFPIF,train,"[('Sardine', 'Swimming')]",0
+1169,BGAJEUPH,train,"[('Sterlet Fish', 'Swimming')]",0
+1199,BGSOGNXN,train,"[('Manta Ray', 'Swimming'), ('Fish', 'Swimming')]",0
+1224,BHIIRPAB,train,"[('Dice Snake', 'Biting'), ('Perch Fish', 'Being Eaten')]",0
+1228,BHJBJNPL,train,"[('Bottlenose Dolphin', 'Swimming'), ('Bottlenose Dolphin', 'Being Carried In Mouth'), ('Pufferfish', 'Carrying In Mouth')]",0
+1238,BHSDAKGZ,train,"[('Fish', 'Drifting')]",0
+1243,BHXCFIKV,train,"[('Fish', 'Being Eaten'), ('Fish', 'Swimming'), ('Stonefish', 'Eating'), ('Fish', 'Sensing'), ('Stonefish', 'Keeping still')]",0
+1293,BJECMPAB,train,"[('Dice Snake', 'Biting'), ('Common Bleak', 'Being Carried In Mouth')]",0
+1348,BKSKLMHZ,train,"[('Natrix Tessellata Snake', 'Biting'), ('Fish', 'Struggling')]",1
+1371,BLFCPUPH,train,"[('Sterlet Fish', 'Swimming')]",0
+1405,BLYPCPLS,train,"[('Fish', 'Spreading Wings'), ('Ardea Alba Egret', 'Eating'), ('Fish', 'Being Eaten')]",0
+1407,BLZNFFFP,train,"[('Pistol Shrimp', 'Digging'), ('Yellow Watchman Goby Fish', 'Keeping still')]",0
+1427,BMOLMNXN,train,"[('Orca', 'Eating'), ('Fish', 'Swimming'), ('Fish', 'Eating'), ('Orca', 'Swimming')]",0
+1453,BNGJHZAA,train,"[('Fish', 'Swimming')]",0
+1670,BTZOSPIF,train,"[('Salmon', 'Jumping'), ('Grizzly Bear', 'Attending'), ('Grizzly Bear', 'Sensing')]",0
+1693,BUMBJPDI,train,"[('Fish', 'Swimming')]",0
+1737,BVSJKFFP,train,"[('Barramundi Fish', 'Swimming')]",0
+1739,BVTBJPIF,train,"[('Sardine', 'Swimming')]",0
+1747,BVYPMPIF,train,"[('Salmon', 'Jumping'), ('Grizzly Bear', 'Preying')]",0
+1756,BWHRSXEV,train,"[('Fish', 'Swimming')]",0
+1761,BWKRAFGA,train,"[('Fish', 'Swimming')]",0
+1792,BXKOKKGZ,train,"[('Fish', 'Swimming')]",0
+1820,BYPGVZAA,train,"[('Atlantic Blue Tang Fish', 'Swimming')]",0
+1842,BZFQLZAA,train,"[('Fish', 'Keeping still'), ('Fish', 'Swimming'), ('Fish', 'Sensing')]",0
+1854,BZQKZNXN,train,"[('Manta Ray', 'Swimming'), ('Fish', 'Swimming')]",0
+1858,BZTKEUPH,train,"[('Trout Young', 'Keeping still'), ('Trout Young', 'Swimming')]",0
+1864,BZVVVNXN,train,"[('Moray Eel', 'Calling')]",0
+2093,CGLCABSK,train,"[('Fish', 'Swimming'), ('Fish', 'Surfacing'), ('Rhincodon Typus', 'Eating')]",0
+2108,CGSNUMHZ,train,"[('Natrix Tessellata Snake', 'Biting'), ('Fish', 'Being Eaten')]",0
+2109,CGSORPAB,train,"[('Dice Snake', 'Biting'), ('Common Bleak', 'Being Carried In Mouth')]",0
+2118,CGXWWPIF,train,"[('Sea Lion', 'Swimming'), ('Shearwater Bird', 'Swimming'), ('Sardine', 'Swimming')]",0
+2174,CINPIKGZ,train,"[('Fish', 'Swimming')]",0
+2186,CITPDPIF,train,"[('Sardine', 'Fleeing'), ('Sardine', 'Swimming'), ('Sea Lion', 'Attacking')]",1
+2259,CKHCZPDI,train,"[('Fish', 'Swimming')]",0
+2261,CKHNQPAB,train,"[('Dice Snake', 'Biting'), ('Common Bleak', 'Being Carried In Mouth')]",0
+2265,CKKJZPLS,train,"[('Fish', 'Walking'), ('Ardea Alba Egret', 'Eating'), ('Fish', 'Being Eaten'), ('Ardea Alba Egret', 'Walking')]",0
+2268,CKMBIUPH,train,"[('Pike Perch Fish', 'Swimming')]",0
+2303,CLRZUNPL,train,"[('Bottlenose Dolphin', 'Swimming'), ('Pufferfish', 'Swimming')]",0
+2304,CLTPPIKV,train,"[('Moray Eel', 'Eating')]",0
+2385,CNRRWPIF,train,"[('Whale', 'Eating'), ('Fish', 'Swimming'), ('Sea Lion', 'Swimming'), ('Sardine', 'Being Eaten')]",0
+2400,CODYRMHZ,train,"[('Fish', 'Being Eaten'), ('Natrix Tessellata Snake', 'Eating')]",0
+2410,COLHBPDI,train,"[('Fish', 'Swimming')]",0
+2418,COPHMIKV,train,"[('Fish', 'Swimming'), ('Barracuda Fish', 'Swimming')]",0
+2441,CPCYXUPH,train,"[('Trout', 'Swimming')]",0
+2469,CPRGDPIF,train,"[('Sardine', 'Swimming')]",0
+2476,CQAJZZAA,train,"[('Fish', 'Swimming')]",0
+2487,CQIHPXFE,train,"[('Tern', 'Keeping still'), ('Giant Trevally', 'Eating')]",0
+2512,CRCIONPL,train,"[('Bottlenose Dolphin', 'Swimming'), ('Pufferfish', 'Swimming')]",0
+2518,CRGPTPAB,train,"[('Dice Snake', 'Moving'), ('Dice Snake', 'Biting'), ('Vimba Fish', 'Being Carried In Mouth')]",0
+2534,CRRUHNXN,train,"[('Fish', 'Swimming'), ('Orca', 'Swimming')]",0
+2539,CRVFAKGZ,train,"[('Sea Toad Fish', 'Sensing')]",0
+2544,CRYNTPDI,train,"[('Goby Fish', 'Keeping still')]",0
+2657,CVBPCNPL,train,"[('Bottlenose Dolphin', 'Swimming'), ('Pufferfish', 'Carrying In Mouth')]",0
+2681,CVSPOKGZ,train,"[('Fish', 'Drifting')]",0
+2707,CWLERUPH,train,"[('Danube Bleak Fish', 'Swimming')]",0
+2742,CXSHHNXN,train,"[('Orange Clownfish', 'Sensing')]",0
+2756,CYECNKGZ,train,"[('Stonefish', 'Keeping still')]",0
+2766,CYMTZZAA,train,"[('Atlantic Blue Tang Fish', 'Swimming'), ('Atlantic Blue Tang Fish', 'Eating')]",0
+2803,CZRQTPLS,train,"[('Ardea Alba Egret', 'Shaking Head'), ('Ardea Alba Egret', 'Eating'), ('Fish', 'Being Eaten'), ('Ardea Alba Egret', 'Walking')]",0
+2823,DAGCSFGA,train,"[('Fish', 'Swimming'), ('Bird', 'Swimming')]",0
+2827,DAIHQZAA,train,"[('Clownfish', 'Swimming')]",0
+2833,DANUCUPH,train,"[('Catfish', 'Keeping still')]",0
+2944,DDMZGLHH,train,"[('Fish', 'Keeping still')]",0
+2963,DDXFUPIF,train,"[('Grizzly Bear', 'Attending'), ('Grizzly Bear', 'Preying'), ('Salmon', 'Jumping')]",0
+2966,DDZKKPKL,train,"[('Fish', 'Swimming')]",0
+2970,DEEBBUPH,train,"[('Danube Salmon', 'Swimming')]",0
+2971,DEEDVZAA,train,"[('Fish', 'Swimming'), ('Sea Goldies', 'Swimming')]",0
+3027,DFLVQPIF,train,"[('Sardine', 'Fleeing'), ('Sardine', 'Swimming'), ('Sea Lion', 'Attacking')]",1
+3096,DHOSKFGA,train,"[('Dolphin', 'Swimming'), ('Fish', 'Swimming')]",0
+3123,DIGPIZAA,train,"[('Royal Grammas Fish', 'Swimming')]",0
+3145,DIXWSUPH,train,"[('Danube Salmon', 'Eating')]",0
+3157,DJDHIKGZ,train,"[('Sea Toad Fish', 'Sensing')]",0
+3162,DJIGYZAA,train,"[('Atlantic Blue Tang Fish', 'Swimming')]",0
+3210,DKEFCXFE,train,"[('Giant Trevally', 'Swimming')]",0
+3254,DLJUBPDI,train,"[('Fish', 'Swimming')]",0
+3259,DLOQEPIF,train,"[('Sardine', 'Fleeing'), ('Shearwater Bird', 'Swimming'), ('Sea Lion', 'Swimming')]",1
+3280,DMDFJHVR,train,"[('Dice Snake', 'Biting'), ('Perch Fish', 'Being Eaten')]",0
+3358,DOBAUIKV,train,"[('Stonefish', 'Keeping still')]",0
+3361,DOCYAUPH,train,"[('Pike Perch Fish', 'Swimming'), ('Pike Perch Fish', 'Attacking')]",1
+3370,DOIUAPIF,train,"[('Sea Lion', 'Swimming'), ('Shearwater Bird', 'Swimming'), ('Sardine', 'Fleeing'), ('Sardine', 'Swimming'), ('Shearwater Bird', 'Attacking')]",1
+3414,DPKFTXFE,train,"[('Giant Trevally', 'Surfacing')]",0
+3437,DQGOQIKV,train,"[('Keeltail Needlefish', 'Swimming')]",0
+3446,DQKWWUPH,train,"[('Pike Perch Fish', 'Swimming')]",0
+3489,DRQHYKGZ,train,"[('Sea Toad Fish', 'Keeping still')]",0
+3543,DSXQEFGA,train,"[('Bird', 'Diving'), ('Dolphin', 'Swimming'), ('Fish', 'Swimming'), ('Bird', 'Swimming')]",0
+3551,DTFMFFFP,train,"[('Mimic Blenny Fish', 'Sensing'), ('Mimic Blenny Fish', 'Disturbing Another Animal')]",0
+3561,DTMMFPIF,train,"[('Salmon', 'Jumping'), ('Grizzly Bear', 'Preying'), ('Grizzly Bear', 'Sensing')]",0
+3626,DVAFGUPH,train,"[('Catfish', 'Swimming')]",0
+3691,DWVMFUPH,train,"[('Pike Perch Fish', 'Swimming'), ('Pike Perch Fish', 'Attacking')]",1
+3729,DXXRGPLS,train,"[('Fish', 'Being Eaten'), ('Ardea Alba Egret', 'Drinking'), ('Ardea Alba Egret', 'Eating'), ('Ardea Alba Egret', 'Shaking Head'), ('Fish', 'Spreading Wings')]",0
+3745,DYILYPAB,train,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Moving')]",0
+3759,DYRTHNXN,train,"[('Manta Ray', 'Swimming'), ('Fish', 'Swimming')]",0
+3762,DYSHAPIF,train,"[('Sardine', 'Swimming')]",0
+3796,DZSRSFFP,train,"[('Yellow Watchman Goby Fish', 'Sensing')]",0
+3824,EALSVZAA,train,"[('Fish', 'Swimming')]",0
+3997,EENLCMHZ,train,"[('Fish', 'Dead'), ('Natrix Tessellata Snake', 'Keeping still')]",0
+4039,EFRVQKGZ,train,"[('Fish', 'Keeping still')]",0
+4071,EGKSXPAB,train,"[('Dice Snake', 'Biting'), ('Common Bleak', 'Being Carried In Mouth')]",0
+4073,EGOOCGQD,train,"[('Fish', 'Swimming')]",0
+4108,EHOMGKGZ,train,"[('Sea Toad Fish', 'Keeping still')]",0
+4144,EILXLPAB,train,"[('Dice Snake', 'Keeping still'), ('Common Bleak', 'Struggling'), ('Common Bleak', 'Keeping still'), ('Dice Snake', 'Attacking'), ('Common Bleak', 'Swimming')]",1
+4147,EINWCCND,train,"[('Snake', 'Eating'), ('Fish', 'Struggling')]",1
+4163,EIZJQPIF,train,"[('Sardine', 'Swimming'), ('Sea Lion', 'Swimming')]",0
+4169,EJDEIPKL,train,"[('Fish', 'Swimming')]",0
+4180,EJJQPUPH,train,"[('Fish', 'Fleeing')]",1
+4196,EJXIVNPL,train,"[('Bottlenose Dolphin', 'Diving'), ('Pufferfish', 'Getting Bullied')]",0
+4260,ELTXDUPH,train,"[('Danube Salmon', 'Keeping still')]",0
+4266,ELZJJPAB,train,"[('Dice Snake', 'Biting'), ('Common Bleak', 'Being Carried In Mouth')]",0
+4300,ENICBNXN,train,"[('Manta Ray', 'Swimming'), ('Fish', 'Swimming')]",0
+4308,ENMYHKGZ,train,"[('Sea Toad Fish', 'Swimming')]",0
+4365,EOUSNUPH,train,"[('Danube Salmon', 'Swimming')]",0
+4474,ESESMPDI,train,"[('Fish', 'Swimming'), ('Fish', 'Sensing')]",0
+4503,ESWGNPDI,train,"[('Fish', 'Swimming')]",0
+4538,ETVYRKGZ,train,"[('Fish', 'Keeping still')]",0
+4568,EUYQLPDI,train,"[('Fish', 'Swimming')]",0
+4580,EVEHIMHZ,train,"[('Fish', 'Dead'), ('Natrix Tessellata Snake', 'Hissing')]",0
+4610,EWBYRPIF,train,"[('Grizzly Bear', 'Attending'), ('Grizzly Bear', 'Preying'), ('Salmon', 'Jumping')]",0
+4677,EXWYPUPH,train,"[('Fish', 'Swimming')]",0
+4687,EYHFBUPH,train,"[('Pike Perch Fish', 'Swimming')]",0
+4705,EYTOXUPH,train,"[('Danube Bleak Fish', 'Swimming')]",0
+4827,FBVHXDAL,train,"[('Grey Heron', 'Shaking Head'), ('Grey Heron', 'Eating'), ('Fish', 'Being Eaten')]",0
+4855,FCQTAXEV,train,"[('Fish', 'Keeping still')]",0
+4920,FENSGUPH,train,"[('Fish', 'Dead')]",0
+4952,FFKOTPKL,train,"[('Fish', 'Keeping still')]",0
+4953,FFLNBPAB,train,"[('Common Bleak', 'Struggling'), ('Dice Snake', 'Attacking')]",1
+4960,FFSLQEDF,train,"[('Caretta Caretta Turtle', 'Swimming'), ('Fish', 'Swimming')]",0
+5065,FIRILUPH,train,"[('Danube Salmon', 'Swimming'), ('Grayling Fish', 'Swimming')]",0
+5069,FITPRRGE,train,"[('Fish', 'Eating')]",0
+5082,FJFPUIKV,train,"[('Stonefish', 'Keeping still')]",0
+5093,FJPIXPAB,train,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Moving')]",0
+5097,FJULLUPH,train,"[('Catfish', 'Swimming')]",0
+5109,FKDFDPDI,train,"[('Fish', 'Sensing')]",0
+5236,FNYWVUPH,train,"[('Sterlet Fish', 'Swimming'), ('Sterlet Fish', 'Sensing')]",0
+5313,FPVQNFFP,train,"[('Mimic Blenny Fish', 'Sensing')]",0
+5402,FRWVMFFP,train,"[('Fish', 'Swimming'), ('Damsel Fish', 'Swimming')]",0
+5404,FRXIUZAA,train,"[('Fish', 'Sensing')]",0
+5416,FSBRPHVR,train,"[('Dice Snake', 'Keeping still'), ('Dice Snake', 'Dead'), ('Perch Fish', 'Keeping still'), ('Dice Snake', 'Yawning'), ('Perch Fish', 'Dead')]",0
+5510,FURIGUPH,train,"[('Pike Perch Fish', 'Attacking')]",1
+5529,FVKDZPJK,train,"[('Fish', 'Swimming'), ('Starfish', 'Keeping still')]",0
+5635,FYPKPPIF,train,"[('Fish', 'Swimming'), ('Whale', 'Swimming')]",0
+5698,GANSTUPH,train,"[('Trout Young', 'Keeping still'), ('Trout Young', 'Swimming')]",0
+5779,GCWJUPAB,train,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Moving'), ('Dice Snake', 'Being Carried In Mouth')]",0
+5784,GDABUPDI,train,"[('Fish', 'Swimming')]",0
+5814,GDQVAHVR,train,"[('Dice Snake', 'Moving'), ('Dice Snake', 'Biting'), ('Perch Fish', 'Being Eaten'), ('Perch Fish', 'Biting')]",1
+5861,GEZJHMHZ,train,"[('Fish', 'Carrying In Mouth'), ('Natrix Tessellata Snake', 'Biting')]",0
+5870,GFHEDPIF,train,"[('Sardine', 'Swimming')]",0
+5897,GFYABQCJ,train,"[('Fish', 'Swimming')]",0
+5962,GHUYYUPH,train,"[('Pike Perch Fish', 'Swimming'), ('Pike Perch Fish', 'Attacking')]",1
+6042,GKCGDFFP,train,"[('Archer Fish', 'Keeping still')]",0
+6122,GMGYPPIF,train,"[('Salmon', 'Jumping'), ('Grizzly Bear', 'Preying')]",0
+6148,GMRVJBSK,train,"[('Fish', 'Swimming'), ('Carcharhinus Limbatus', 'Swimming')]",0
+6168,GNJXYUPH,train,"[('Pike Perch Fish', 'Swimming'), ('Pike Perch Fish', 'Attacking')]",1
+6188,GNRRJNPL,train,"[('Bottlenose Dolphin', 'Swimming'), ('Pufferfish', 'Carrying In Mouth')]",0
+6193,GNSLFUPH,train,"[('Pike Perch Fish', 'Swimming'), ('Pike Perch Fish', 'Attacking')]",1
+6219,GOTZKPIF,train,"[('Sea Lion', 'Attacking'), ('Sea Lion', 'Swimming'), ('Sardine', 'Fleeing'), ('Sardine', 'Swimming'), ('Shearwater Bird', 'Attacking')]",1
+6228,GOZLLKGZ,train,"[('Fish', 'Keeping still'), ('Crab', 'Moving')]",0
+6237,GPGMEFFP,train,"[('Fish', 'Swimming')]",0
+6282,GQUQDPAB,train,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Being Carried In Mouth')]",0
+6294,GRKBZKGZ,train,"[('Sea Toad Fish', 'Keeping still'), ('Sea Toad Fish', 'Flapping Tail'), ('Sea Toad Fish', 'Sensing')]",0
+6343,GSVFTPDI,train,"[('Fish', 'Swimming')]",0
+6358,GTEIRDAL,train,"[('Grey Heron', 'Eating'), ('Fish', 'Being Eaten')]",0
+6433,GVNOKFFP,train,"[('Cardinal Fish', 'Keeping still'), ('Cardinal Fish', 'Swimming')]",0
+6490,GWWDSUPH,train,"[('Pike Perch Fish', 'Attacking')]",1
+6522,GXZLWUPH,train,"[('Pike Perch Fish', 'Swimming')]",0
+6539,GYOVFMHZ,train,"[('Fish', 'Being Eaten'), ('Natrix Tessellata Snake', 'Eating')]",0
+6567,GZSZTMHZ,train,"[('Fish', 'Dead'), ('Fish', 'Hissing'), ('Natrix Tessellata Snake', 'Keeping still'), ('Natrix Tessellata Snake', 'Hissing')]",0
+6570,GZUZKPIF,train,"[('Salmon', 'Being Eaten'), ('Grizzly Bear', 'Biting')]",0
+6596,HAIWAXFE,train,"[('Giant Trevally', 'Surfacing'), ('Tern', 'Eating')]",0
+6636,HBLPLPKL,train,"[('Fish', 'Swimming'), ('Fish', 'Sensing')]",0
+6680,HCQHHPAB,train,"[('Dice Snake', 'Biting'), ('Perch Fish', 'Struggling')]",1
+6695,HCYCEFFP,train,"[('Mimic Blenny Fish', 'Swimming')]",0
+6724,HDWIDUPH,train,"[('Fish', 'Fleeing'), ('Pike Perch Fish', 'Attacking')]",1
+6783,HFTGGNXN,train,"[('Manta Ray', 'Swimming'), ('Fish', 'Swimming')]",0
+6802,HGERIPLS,train,"[('Fish', 'Spreading Wings'), ('Ardea Alba Egret', 'Eating'), ('Fish', 'Being Eaten')]",0
+6866,HICLTPIK,train,"[('Octopus', 'Moving'), ('Fish', 'Swimming')]",0
+6883,HINVVPDI,train,"[('Fish', 'Swimming')]",0
+6905,HJKUQPJK,train,"[('Fish', 'Swimming')]",0
+6932,HJZTAMHZ,train,"[('Fish', 'Carrying In Mouth'), ('Natrix Tessellata Snake', 'Biting'), ('Fish', 'Struggling'), ('Natrix Tessellata Snake', 'Sensing')]",1
+6988,HLOQUMHZ,train,"[('Fish', 'Struggling'), ('Natrix Tessellata Snake', 'Sensing')]",1
+7006,HMAWINXN,train,"[('Orca', 'Eating'), ('Fish', 'Swimming'), ('Fish', 'Eating'), ('Orca', 'Swimming')]",0
+7013,HMEARCND,train,"[('Snake', 'Eating'), ('Fish', 'Being Eaten'), ('Fish', 'Struggling')]",1
+7027,HMNRFPLS,train,"[('Fish', 'Being Eaten'), ('Ardea Alba Egret', 'Walking'), ('Ardea Alba Egret', 'Eating'), ('Ardea Alba Egret', 'Shaking Head'), ('Fish', 'Walking')]",0
+7082,HNQRQPIF,train,"[('Sardine', 'Swimming')]",0
+7095,HNZWMFFP,train,"[('Fish', 'Swimming')]",0
+7096,HOAFAHVR,train,"[('Dice Snake', 'Biting'), ('Perch Fish', 'Being Eaten')]",0
+7109,HOFWGKGZ,train,"[('Sea Toad Fish', 'Swimming')]",0
+7123,HOOHMPDI,train,"[('Fish', 'Swimming')]",0
+7228,HRVEIPDI,train,"[('Fish', 'Swimming')]",0
+7247,HSJHEFFP,train,"[('Clownfish', 'Swimming')]",0
+7252,HSQBLZAA,train,"[('Clownfish', 'Swimming')]",0
+7260,HSWRAUPH,train,"[('Pike Perch Fish', 'Swimming'), ('Pike Perch Fish', 'Attacking')]",1
+7266,HTCHACND,train,"[('Snake', 'Biting'), ('Fish', 'Being Eaten')]",0
+7277,HTMHKFFP,train,"[('Yellow Watchman Goby Fish', 'Fleeing')]",1
+7287,HTXBXXFE,train,"[('Tern', 'Flying'), ('Giant Trevally', 'Surfacing')]",0
+7319,HUVEWHVR,train,"[('Perch Fish', 'Being Eaten'), ('Dice Snake', 'Eating')]",0
+7345,HVLBIXFE,train,"[('Tern', 'Dead'), ('Giant Trevally', 'Swimming')]",0
+7373,HWFRWNPL,train,"[('Bottlenose Dolphin', 'Swimming'), ('Pufferfish', 'Swimming')]",0
+7376,HWJPASFN,train,"[('Snake', 'Eating'), ('Fish', 'Being Eaten')]",0
+7483,HZNQAUPH,train,"[('Pike Perch Fish', 'Keeping still')]",0
+7485,HZQBUPDI,train,"[('Fish', 'Swimming')]",0
+7547,IBIRNXIF,train,"[('Sea Turtle', 'Keeping still'), ('Fish', 'Swimming')]",0
+7567,IBSRTPIK,train,"[('Fish', 'Keeping still')]",0
+7612,ICSPLPAB,train,"[('Dice Snake', 'Moving'), ('Dice Snake', 'Biting'), ('Vimba Fish', 'Being Carried In Mouth')]",0
+7637,IDICGNOT,train,"[('Fish', 'Keeping still')]",0
+7641,IDPWNKGZ,train,"[('Fish', 'Swimming')]",0
+7679,IETQDNXN,train,"[('Fish', 'Swimming'), ('Orca', 'Swimming')]",0
+7703,IFODVPAB,train,"[('Dice Snake', 'Biting'), ('Common Bleak', 'Being Carried In Mouth')]",0
+7706,IFQWKNOT,train,"[('Fish', 'Swimming')]",0
+7772,IHJZQUPH,train,"[('Trout', 'Swimming')]",0
+7777,IHOJDUPH,train,"[('Pike Perch Fish', 'Attacking')]",1
+7819,IIVSLUPH,train,"[('Tench Fish', 'Swimming')]",0
+7860,IKDQRPDI,train,"[('Fish', 'Swimming')]",0
+7990,IOACRWWK,train,"[('Fish', 'Drifting')]",0
+8121,IRQWHFFP,train,"[('Archer Fish', 'Swimming')]",0
+8123,IRSBOPAB,train,"[('Vimba Fish', 'Being Eaten'), ('Dice Snake', 'Eating')]",0
+8154,ISOMHLHH,train,"[('Fish', 'Being Eaten'), ('African Clawed Toad', 'Eating')]",0
+8197,ITTRNPIK,train,"[('Fish', 'Swimming')]",0
+8202,ITUPLPKL,train,"[('Fish', 'Keeping still')]",0
+8222,IUFKZHVR,train,"[('Perch Fish', 'Being Eaten'), ('Perch Fish', 'Escaping'), ('Dice Snake', 'Escaping'), ('Perch Fish', 'Eating'), ('Dice Snake', 'Eating')]",0
+8226,IUGJHKGZ,train,"[('Sea Toad Fish', 'Swimming')]",0
+8284,IWASDKGZ,train,"[('Sea Toad Fish', 'Keeping still')]",0
+8337,IXMMHUPH,train,"[('Pike Perch Fish', 'Swimming'), ('Pike Perch Fish', 'Exploring')]",0
+8358,IYDUJFGA,train,"[('Fish', 'Swimming')]",0
+8398,IZIYMMHZ,train,"[('Fish', 'Carrying In Mouth'), ('Natrix Tessellata Snake', 'Biting'), ('Fish', 'Struggling'), ('Natrix Tessellata Snake', 'Sensing')]",1
+8412,JACYAPAB,train,"[('Dice Snake', 'Moving'), ('Vimba Fish', 'Dead')]",0
+8447,JAYCAFFP,train,"[('Toadfish', 'Keeping still')]",0
+8470,JBMQKXFE,train,"[('Giant Trevally', 'Swimming')]",0
+8521,JCTQXUPH,train,"[('Danube Bleak Fish', 'Swimming')]",0
+8542,JDKSRUPH,train,"[('Danube Bleak Fish', 'Swimming')]",0
+8567,JECQINXN,train,"[('Fish', 'Eating'), ('Orca', 'Swimming')]",0
+8593,JERPGFFP,train,"[('Fish', 'Swimming')]",0
+8624,JFNOAPLS,train,"[('Fish', 'Spreading Wings'), ('Ardea Alba Egret', 'Shaking Head'), ('Ardea Alba Egret', 'Eating'), ('Ardea Alba Egret', 'Drinking')]",0
+8634,JFTSSPDI,train,"[('Fish', 'Swimming')]",0
+8779,JJSVXKGZ,train,"[('Fish', 'Swimming')]",0
+8855,JLZSFIKV,train,"[('Barracuda Fish', 'Swimming')]",0
+8859,JMDAJPIF,train,"[('Sardine', 'Fleeing'), ('Sardine', 'Swimming'), ('Sea Lion', 'Attacking')]",1
+8869,JMIBWPIF,train,"[('Sardine', 'Fleeing'), ('Sardine', 'Swimming'), ('Sea Lion', 'Attacking')]",1
+8888,JMYYOBSK,train,"[('Fish', 'Swimming')]",0
+8893,JNBXMKGZ,train,"[('Moray Eel', 'Swimming')]",0
+8947,JOQNEKGZ,train,"[('Fish', 'Swimming')]",0
+8958,JPEFNPJK,train,"[('Fish', 'Swimming')]",0
+8979,JPSRBHVR,train,"[('Dice Snake', 'Keeping still'), ('Dice Snake', 'Yawning'), ('Perch Fish', 'Dead')]",0
+9014,JQPGWPAB,train,"[('Common Bleak', 'Being Eaten'), ('Dice Snake', 'Eating')]",0
+9125,JTWVMXFE,train,"[('Giant Trevally', 'Attacking')]",1
+9132,JUEDWUPH,train,"[('Pike Perch Fish', 'Swimming')]",0
+9187,JVMKYZAA,train,"[('Atlantic Blue Tang Fish', 'Swimming'), ('Atlantic Blue Tang Fish', 'Eating')]",0
+9191,JVQWSPAB,train,"[('Dice Snake', 'Exploring'), ('Perch Fish', 'Gasping For Air')]",0
+9213,JWDTFUPH,train,"[('Pike Perch Fish', 'Swimming')]",0
+9239,JWYUPFFP,train,"[('Cardinal Fish', 'Swimming'), ('Cardinal Fish', 'Drifting')]",0
+9288,JYODCPDI,train,"[('Fish', 'Swimming')]",0
+9327,JZQGCUPH,train,"[('Sterlet Fish', 'Swimming')]",0
+9333,JZUGAFGA,train,"[('Fish', 'Swimming')]",0
+9342,KACITBQT,train,"[('Otter', 'Eating'), ('Fish', 'Being Eaten')]",0
+9361,KANVIPIF,train,"[('Sardine', 'Swimming')]",0
+9418,KBZTDPAB,train,"[('Perch Fish', 'Swimming')]",0
+9427,KCHAEKGZ,train,"[('Sea Toad Fish', 'Swimming')]",0
+9488,KEBQVMHZ,train,"[('Fish', 'Being Eaten'), ('Natrix Tessellata Snake', 'Eating')]",0
+9519,KETGCDAL,train,"[('Grey Heron', 'Carrying In Mouth'), ('Fish', 'Being Eaten')]",0
+9567,KGCDKUPH,train,"[('Danube Bleak Fish', 'Swimming')]",0
+9582,KGMNJFGA,train,"[('Bird', 'Diving'), ('Fish', 'Swimming')]",0
+9586,KGPTYNOT,train,"[('Clownfish', 'Swimming')]",0
+9641,KIBEBPDI,train,"[('Goby Fish', 'Sensing'), ('Goby Fish', 'Entering its nest')]",0
+9645,KIDOKUPH,train,"[('Lobster', 'Fleeing'), ('Pike Perch Fish', 'Attacking')]",1
+9669,KIVJMUPH,train,"[('Catfish', 'Keeping still')]",0
+9747,KKNYIUPH,train,"[('Pike Perch Fish', 'Keeping still')]",0
+9748,KKOPPPIK,train,"[('Fish', 'Swimming')]",0
+9770,KLIQHPIF,train,"[('Sardine', 'Swimming')]",0
+9778,KLMLYPIK,train,"[('Fish', 'Swimming')]",0
+9819,KMTBYPJK,train,"[('Fish', 'Swimming')]",0
+9820,KMUXAUPH,train,"[('Sterlet Fish', 'Swimming'), ('Sterlet Fish', 'Eating')]",0
+9831,KNGJCPDI,train,"[('Fish', 'Swimming'), ('Moray Eel', 'Sensing')]",0
+9921,KPPPYFGA,train,"[('Bird', 'Diving'), ('Dolphin', 'Swimming'), ('Fish', 'Swimming')]",0
+9934,KPXKCPJK,train,"[('Fish', 'Swimming')]",0
+10026,KSBHHPJK,train,"[('Fish', 'Swimming')]",0
+10082,KTQFSMHZ,train,"[('Natrix Tessellata Snake', 'Struggling'), ('Natrix Tessellata Snake', 'Biting'), ('Fish', 'Being Eaten'), ('Natrix Tessellata Snake', 'Sensing'), ('Fish', 'Being Carried In Mouth'), ('Fish', 'Struggling'), ('Fish', 'Biting'), ('Fish', 'Carrying In Mouth'), ('Natrix Tessellata Snake', 'Eating')]",1
+10207,KWNFPHVR,train,"[('Fish', 'Swimming')]",0
+10209,KWNOTEDF,train,"[('Fish', 'Swimming'), ('Chelonia Mydas Turtle', 'Keeping still')]",0
+10212,KWOQPCND,train,"[('Snake', 'Eating'), ('Fish', 'Being Eaten')]",0
+10377,LBJFEUPH,train,"[('Danube Bleak Fish', 'Swimming')]",0
+10386,LBOIHUPH,train,"[('Danube Bleak Fish', 'Swimming')]",0
+10412,LCFGOKGZ,train,"[('Sea Toad Fish', 'Keeping still'), ('Sea Toad Fish', 'Flapping Tail'), ('Sea Toad Fish', 'Sensing')]",0
+10438,LCXTKPIF,train,"[('Salmon', 'Swimming')]",0
+10447,LDGVKPJK,train,"[('Fish', 'Swimming')]",0
+10504,LEQQKQCJ,train,"[('Fish', 'Swimming'), ('Mantis Shrimp', 'Keeping still')]",0
+10550,LFOHTFFP,train,"[('Yellow Watchman Goby Fish', 'Exiting Nest')]",0
+10607,LHFIVPAB,train,"[('Perch Fish', 'Swimming')]",0
+10629,LHTMGPIF,train,"[('Salmon', 'Swimming')]",0
+10643,LIKCQKGZ,train,"[('Sea Toad Fish', 'Keeping still')]",0
+10662,LJDDUPAB,train,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Moving')]",0
+10721,LKSTSKGZ,train,"[('Fish', 'Swimming')]",0
+10737,LLBNEMHZ,train,"[('Natrix Tessellata Snake', 'Struggling'), ('Natrix Tessellata Snake', 'Biting'), ('Fish', 'Being Eaten'), ('Natrix Tessellata Snake', 'Sensing'), ('Fish', 'Being Carried In Mouth'), ('Fish', 'Struggling'), ('Fish', 'Biting'), ('Fish', 'Carrying In Mouth'), ('Natrix Tessellata Snake', 'Eating')]",1
+10789,LMMXXFFP,train,"[('Archer Fish', 'Swimming')]",0
+10797,LMQFXGIW,train,"[('Grey Heron', 'Carrying In Mouth'), ('Fish', 'Being Eaten')]",0
+10803,LMUUAUPH,train,"[('Trout', 'Swimming')]",0
+10809,LMZUJPIF,train,"[('Sardine', 'Fleeing'), ('Sardine', 'Swimming'), ('Sea Lion', 'Attacking')]",1
+10817,LNGMCUPH,train,"[('Catfish', 'Keeping still')]",0
+10824,LNKQTFFP,train,"[('Fish', 'Swimming'), ('Dog Faced Water Snake', 'Keeping still')]",0
+10846,LNXSTHVR,train,"[('Dice Snake', 'Biting'), ('Perch Fish', 'Being Eaten')]",0
+10857,LODKFPAB,train,"[('Common Bleak', 'Being Eaten'), ('Dice Snake', 'Eating')]",0
+10934,LPXZXXFE,train,"[('Giant Trevally', 'Swimming')]",0
+10960,LQMKWMHZ,train,"[('Natrix Tessellata Snake', 'Biting'), ('Fish', 'Struggling')]",1
+10967,LQSOXNPL,train,"[('Bottlenose Dolphin', 'Surfacing'), ('Pufferfish', 'Biting')]",1
+10971,LQVTUFFP,train,"[('Yellow Watchman Goby Fish', 'Keeping still')]",0
+10992,LRLMYPAB,train,"[('Dice Snake', 'Biting'), ('Perch Fish', 'Rolling')]",0
+10998,LROVMPIF,train,"[('Salmon', 'Jumping'), ('Grizzly Bear', 'Preying')]",0
+11015,LSANJFGA,train,"[('Fish', 'Swimming')]",0
+11036,LSNNAPAB,train,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Moving')]",0
+11048,LTBLVPLS,train,"[('Ardea Alba Egret', 'Biting'), ('Fish', 'Being Carried In Mouth'), ('Ardea Alba Egret', 'Attacking'), ('Ardea Alba Egret', 'Walking'), ('Fish', 'Biting')]",1
+11053,LTITVKEW,train,"[('Fish', 'Sensing'), ('Boxer Crab', 'Waving')]",0
+11087,LUMYHPLS,train,"[('Ardea Alba Egret', 'Eating'), ('Fish', 'Being Eaten')]",0
+11099,LUWCWPAB,train,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Being Carried In Mouth'), ('Dice Snake', 'Being Carried In Mouth'), ('Vimba Fish', 'Moving'), ('Dice Snake', 'Sensing')]",0
+11118,LVKHTPIF,train,"[('Sardine', 'Fleeing'), ('Sea Lion', 'Swimming'), ('Shearwater Bird', 'Swimming'), ('Shearwater Bird', 'Attacking')]",1
+11164,LWRUYPIF,train,"[('Salmon', 'Being Carried In Mouth'), ('Grizzly Bear', 'Biting')]",0
+11211,LYJARPJK,train,"[('Fish', 'Swimming')]",0
+11237,LZIJKNPL,train,"[('Bottlenose Dolphin', 'Swimming'), ('Pufferfish', 'Escaping')]",0
+11265,MAAUZNPL,train,"[('Bottlenose Dolphin', 'Swimming'), ('Pufferfish', 'Carrying In Mouth')]",0
+11346,MCCBMPLS,train,"[('Ardea Alba Egret', 'Eating'), ('Fish', 'Being Eaten')]",0
+11418,MDUWHPDI,train,"[('Fish', 'Swimming')]",0
+11479,MEYFSUPH,train,"[('Pike Perch Fish', 'Swimming'), ('Pike Perch Fish', 'Attacking')]",1
+11551,MGVZPFFP,train,"[('Fish', 'Swimming')]",0
+11567,MHGYYUPH,train,"[('Fish', 'Keeping still')]",0
+11634,MJHITXFE,train,"[('Giant Trevally', 'Swimming')]",0
+11643,MJKLAPDI,train,"[('Fish', 'Swimming')]",0
+11648,MJODSUPH,train,"[('Danube Bleak Fish', 'Swimming')]",0
+11713,MLMMZPAB,train,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Being Carried In Mouth'), ('Dice Snake', 'Sensing')]",0
+11718,MLRBZPJK,train,"[('Fish', 'Swimming')]",0
+11739,MMGTAUPH,train,"[('Danube Bleak Fish', 'Swimming')]",0
+11751,MMQJMFFP,train,"[('Insect', 'Being Eaten'), ('Insect', 'Struggling'), ('Archer Fish', 'Eating')]",0
+11786,MNNPMUPH,train,"[('Danube Bleak Fish', 'Swimming')]",0
+11795,MNSEDUPH,train,"[('Catfish', 'Keeping still')]",0
+11863,MPQTIPDI,train,"[('Fish', 'Swimming')]",0
+11922,MRKXSFFP,train,"[('Mimic Blenny Fish', 'Swimming')]",0
+11936,MRWSHUPH,train,"[('Pike Perch Fish', 'Swimming'), ('Lobster', 'Fleeing'), ('Pike Perch Fish', 'Attacking')]",1
+11937,MRZDAUPH,train,"[('Eel', 'Keeping still')]",0
+11963,MSQRIPAB,train,"[('Common Bleak', 'Swimming'), ('Dice Snake', 'Attacking')]",0
+11964,MSQUBPAB,train,"[('Vimba Fish', 'Swimming'), ('Dice Snake', 'Biting')]",0
+11980,MTDBSPIF,train,"[('Sea Lion', 'Eating'), ('Sardine', 'Being Eaten'), ('Sardine', 'Swimming')]",0
+12064,MVOJENXN,train,"[('Manta Ray', 'Swimming'), ('Fish', 'Swimming')]",0
+12065,MVPXTPAB,train,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Moving')]",0
+12101,MWOVRPLS,train,"[('Fish', 'Spreading Wings'), ('Ardea Alba Egret', 'Eating')]",0
+12128,MXGODPIF,train,"[('Sardine', 'Swimming')]",0
+12132,MXKDAKGZ,train,"[('Fish', 'Swimming')]",0
+12152,MYASHHVR,train,"[('Dice Snake', 'Keeping still'), ('Dice Snake', 'Yawning'), ('Perch Fish', 'Dead')]",0
+12167,MYONTPDI,train,"[('Fish', 'Swimming')]",0
+12191,MZHSXVMP,train,"[('Bird', 'Carrying In Mouth'), ('Fish', 'Being Eaten')]",0
+12199,MZNKKUPH,train,"[('Sterlet Fish', 'Swimming'), ('Sterlet Fish', 'Eating')]",0
+12214,MZWVJPDI,train,"[('Fish', 'Sensing')]",0
+12215,MZXFEFFP,train,"[('Fish', 'Swimming'), ('Dog Faced Water Snake', 'Keeping still')]",0
+12260,NBOCGPIF,train,"[('Sea Lion', 'Swimming'), ('Sardine', 'Swimming')]",0
+12290,NCKSVFFP,train,"[('Clownfish', 'Swimming')]",0
+12294,NCOOSQCJ,train,"[('Fish', 'Swimming')]",0
+12317,NDGQQEDF,train,"[('Gavialis Gangeticus Crocodile', 'Attending'), ('Fish', 'Swimming'), ('Tortoise', 'Swimming'), ('Gavialis Gangeticus Crocodile', 'Keeping still')]",0
+12342,NDZHLKGZ,train,"[('Fish', 'Swimming')]",0
+12368,NESAICND,train,"[('Snake', 'Eating'), ('Fish', 'Being Eaten')]",0
+12379,NFAJJKGZ,train,"[('Fish', 'Keeping still')]",0
+12392,NFIDUPIF,train,"[('Shearwater Bird', 'Fleeing'), ('Sea Lion', 'Swimming'), ('Shearwater Bird', 'Swimming'), ('Sardine', 'Fleeing'), ('Sardine', 'Swimming'), ('Shearwater Bird', 'Attacking')]",1
+12395,NFJQPUPH,train,"[('Sterlet Fish', 'Swimming')]",0
+12397,NFKPJPIF,train,"[('Sea Lion', 'Attacking'), ('Sea Lion', 'Swimming'), ('Shearwater Bird', 'Swimming'), ('Sardine', 'Fleeing'), ('Sardine', 'Swimming')]",1
+12415,NFXMBZAA,train,"[('Fish', 'Swimming'), ('Gray Angelfish', 'Swimming')]",0
+12525,NIEBXPKL,train,"[('Lightfoot Crab', 'Fleeing'), ('Eel', 'Attacking'), ('Lightfoot Crab', 'Climbing')]",1
+12544,NISDGPIF,train,"[('Grizzly Bear', 'Walking'), ('Salmon', 'Being Carried In Mouth'), ('Grizzly Bear', 'Biting')]",0
+12557,NJBXGBSK,train,"[('Fish', 'Swimming'), ('Galeocerdo Cuvier', 'Swimming')]",0
+12600,NKCSJPAB,train,"[('Dice Snake', 'Biting'), ('Common Bleak', 'Being Carried In Mouth')]",0
+12606,NKGPKNXN,train,"[('Orca', 'Swimming'), ('Fish', 'Swimming'), ('Orca', 'Sensing')]",0
+12638,NLBOBPAB,train,"[('Dice Snake', 'Biting'), ('Common Bleak', 'Being Carried In Mouth')]",0
+12650,NLJQEDWZ,train,"[('Surgeonfish', 'Swimming')]",0
+12668,NLVSRKGZ,train,"[('Fish', 'Keeping still')]",0
+12687,NMNUIUPH,train,"[('Trout Young', 'Eating')]",0
+12746,NOCANFFP,train,"[('Barramundi Fish', 'Swimming')]",0
+12785,NPGWBUPH,train,"[('Trout Young', 'Eating')]",0
+12800,NPSKHPIK,train,"[('Fish', 'Swimming'), ('Lionfish', 'Swimming')]",0
+12809,NPYNHPLS,train,"[('Ardea Alba Egret', 'Shaking Head'), ('Ardea Alba Egret', 'Eating'), ('Fish', 'Being Eaten')]",0
+12860,NRHZUUPH,train,"[('Pike Perch Fish', 'Swimming')]",0
+12869,NRPZZPDI,train,"[('Fish', 'Swimming')]",0
+12944,NTLBTFFP,train,"[('Archer Fish', 'Sensing')]",0
+12982,NUNNUMHZ,train,"[('Fish', 'Dead'), ('Fish', 'Hissing'), ('Natrix Tessellata Snake', 'Keeping still'), ('Natrix Tessellata Snake', 'Hissing')]",0
+13039,NWJJCPIF,train,"[('Sardine', 'Swimming')]",0
+13092,NYFHZLHH,train,"[('Fish', 'Swimming'), ('African Clawed Toad', 'Keeping still')]",0
+13093,NYGWXUPH,train,"[('Catfish', 'Swimming')]",0
+13137,NZKRNPLS,train,"[('Ardea Alba Egret', 'Keeping still'), ('Ardea Alba Egret', 'Eating'), ('Fish', 'Being Eaten')]",0
+13148,NZUKLPLS,train,"[('Ardea Alba Egret', 'Biting'), ('Fish', 'Being Carried In Mouth')]",0
+13172,OAIUAPIF,train,"[('Sea Lion', 'Attacking'), ('Sea Lion', 'Swimming'), ('Sardine', 'Fleeing'), ('Sardine', 'Swimming'), ('Shearwater Bird', 'Attacking')]",1
+13184,OALMWUPH,train,"[('Danube Salmon', 'Eating')]",0
+13197,OATLBFGA,train,"[('Bird', 'Diving'), ('Fish', 'Swimming'), ('Bird', 'Swimming')]",0
+13239,OBWEYFFP,train,"[('Pistol Shrimp', 'Digging'), ('Yellow Watchman Goby Fish', 'Keeping still')]",0
+13311,ODZQJKGZ,train,"[('Sea Toad Fish', 'Swimming')]",0
+13400,OGBYUUPH,train,"[('Catfish', 'Swimming')]",0
+13466,OHYYDPIF,train,"[('Salmon', 'Swimming')]",0
+13475,OIFKHNOT,train,"[('Fish', 'Swimming')]",0
+13527,OJHGNFGA,train,"[('Dolphin', 'Swimming'), ('Fish', 'Swimming')]",0
+13564,OKGITMHZ,train,"[('Fish', 'Swimming')]",0
+13585,OKXUWEDF,train,"[('Melanosuchus Niger Crocodile', 'Eating'), ('Fish', 'Being Eaten')]",0
+13631,OLQJHVTI,train,"[('Fish', 'Being Eaten'), ('Smew', 'Eating')]",0
+13716,ONYHZKGZ,train,"[('Sea Toad Fish', 'Keeping still'), ('Sea Toad Fish', 'Flapping Tail'), ('Sea Toad Fish', 'Sensing')]",0
+13764,OPFTBZAA,train,"[('Atlantic Blue Tang Fish', 'Swimming'), ('Black Durgon Fish', 'Swimming')]",0
+13776,OPMAKUPH,train,"[('Catfish', 'Keeping still')]",0
+13778,OPNQPPAB,train,"[('Dice Snake', 'Biting'), ('Perch Fish', 'Moving')]",0
+13783,OPSCEPAB,train,"[('Perch Fish', 'Being Eaten'), ('Dice Snake', 'Eating')]",0
+13823,OQYYTFFP,train,"[('Mimic Blenny Fish', 'Sensing')]",0
+13834,ORIABPAB,train,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Moving')]",0
+13927,OUBYOPDI,train,"[('Fish', 'Swimming')]",0
+13983,OVNOJFFP,train,"[('Barramundi Fish', 'Swimming')]",0
+14027,OXBMYKGZ,train,"[('Sea Toad Fish', 'Flapping Tail')]",0
+14040,OXMWFXFE,train,"[('Giant Trevally', 'Falling')]",0
+14062,OYCYPPAB,train,"[('Dice Snake', 'Keeping still'), ('Common Bleak', 'Swimming')]",0
+14081,OYOWAKGZ,train,"[('Sea Toad Fish', 'Keeping still')]",0
+14088,OYVDSPDI,train,"[('Fish', 'Swimming')]",0
+14116,OZTKIPKL,train,"[('Lightfoot Crab', 'Fleeing'), ('Eel', 'Attacking')]",1
+14160,PAXJQXEV,train,"[('Fish', 'Keeping still'), ('Fish', 'Swimming')]",0
+14190,PBNOCPAB,train,"[('Perch Fish', 'Being Eaten'), ('Dice Snake', 'Eating')]",0
+14192,PBQNNPJK,train,"[('Fish', 'Swimming')]",0
+14295,PECPDPKL,train,"[('Fish', 'Sensing')]",0
+14296,PECVNPDI,train,"[('Fish', 'Swimming')]",0
+14321,PEXXJPAB,train,"[('Dice Snake', 'Keeping still'), ('Dice Snake', 'Exploring'), ('Perch Fish', 'Gasping For Air'), ('Perch Fish', 'Keeping still')]",0
+14378,PGJSFUPH,train,"[('Danube Bleak Fish', 'Swimming')]",0
+14394,PHBOLPAB,train,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Moving')]",0
+14437,PIEZWUPH,train,"[('Danube Bleak Fish', 'Swimming')]",0
+14449,PINBPPIF,train,"[('Sardine', 'Swimming')]",0
+14458,PISAFCND,train,"[('Snake', 'Eating'), ('Fish', 'Being Eaten')]",0
+14490,PJROGCND,train,"[('Snake', 'Eating'), ('Fish', 'Being Eaten')]",0
+14505,PKCDIPAB,train,"[('Dice Snake', 'Biting'), ('Perch Fish', 'Struggling')]",1
+14523,PKJJFPIF,train,"[('Sea Lion', 'Swimming'), ('Shearwater Bird', 'Swimming'), ('Sardine', 'Swimming')]",0
+14532,PKRGPPAB,train,"[('Dice Snake', 'Keeping still'), ('Perch Fish', 'Gasping For Air')]",0
+14558,PLGYWPDI,train,"[('Fish', 'Swimming')]",0
+14592,PMGBBFFP,train,"[('Pistol Shrimp', 'Digging'), ('Yellow Watchman Goby Fish', 'Keeping still')]",0
+14656,PNODWFFP,train,"[('Fish', 'Swimming')]",0
+14679,POBTIPKL,train,"[('Fish', 'Swimming')]",0
+14708,POXDFKGZ,train,"[('Fish', 'Swimming'), ('Lobster', 'Swimming')]",0
+14766,PQWKGXFE,train,"[('Giant Trevally', 'Swimming')]",0
+14802,PRQQYIKV,train,"[('Moray Eel', 'Swimming')]",0
+14838,PSJUPFFP,train,"[('Yellow Watchman Goby Fish', 'Sensing')]",0
+14843,PSNHOKGZ,train,"[('Fish', 'Swimming')]",0
+14855,PSWYPKGZ,train,"[('Sea Toad Fish', 'Keeping still')]",0
+14858,PSZFJEDF,train,"[('Gavialis Gangeticus Crocodile', 'Swimming'), ('Fish', 'Swimming'), ('Tortoise', 'Hugging')]",0
+14882,PTSFEKEW,train,"[('Fish', 'Jumping'), ('Pelican', 'Eating')]",0
+14901,PUFIFUPH,train,"[('Danube Bleak Fish', 'Swimming')]",0
+14911,PUQFVUPH,train,"[('Pike Perch Fish', 'Swimming')]",0
+14946,PVQNPPDI,train,"[('Fish', 'Swimming')]",0
+14971,PWKBPKGZ,train,"[('Fish', 'Swimming')]",0
+14989,PWTKGFFP,train,"[('Yellow Watchman Goby Fish', 'Keeping still')]",0
+15011,PXLZQBSK,train,"[('Fish', 'Swimming'), ('Galeocerdo Cuvier', 'Swimming')]",0
+15023,PXWOTPAB,train,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Moving')]",0
+15062,PYYZNFFP,train,"[('Round Face Bat Fish', 'Swimming'), ('Round Face Bat Fish', 'Eating')]",0
+15142,QBDAFPAB,train,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Being Carried In Mouth'), ('Dice Snake', 'Sensing')]",0
+15152,QBIQLIKV,train,"[('Barracuda Fish', 'Swimming')]",0
+15250,QDQVSKGZ,train,"[('Sea Toad Fish', 'Keeping still'), ('Sea Toad Fish', 'Sensing')]",0
+15291,QEXWXPAB,train,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Moving')]",0
+15303,QFEVSPAB,train,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Moving'), ('Dice Snake', 'Being Carried In Mouth')]",0
+15355,QGLSZPIF,train,"[('Sardine', 'Swimming')]",0
+15364,QGUZBHVR,train,"[('Dice Snake', 'Yawning'), ('Perch Fish', 'Dead')]",0
+15367,QGVJIPDI,train,"[('Fish', 'Swimming')]",0
+15392,QHOPGUPH,train,"[('Danube Salmon', 'Eating')]",0
+15404,QIBOYIKV,train,"[('Fish', 'Swimming'), ('Sea Snake', 'Swimming')]",0
+15470,QJYASUPH,train,"[('Danube Salmon', 'Swimming')]",0
+15528,QLBYDZAA,train,"[('Gray Angelfish', 'Swimming')]",0
+15567,QMJQOPIF,train,"[('Salmon', 'Swimming')]",0
+15572,QMLAQNPL,train,"[('Bottlenose Dolphin', 'Swimming'), ('Bottlenose Dolphin', 'Attacking'), ('Pufferfish', 'Getting Bullied')]",0
+15596,QNBPYUPH,train,"[('Eel', 'Keeping still')]",0
+15653,QOKGMBSK,train,"[('Fish', 'Swimming')]",0
+15669,QOVNPUPH,train,"[('Danube Salmon', 'Swimming')]",0
+15694,QPMVMPDI,train,"[('Fish', 'Swimming')]",0
+15707,QPTFPHVR,train,"[('Perch Fish', 'Being Eaten'), ('Dice Snake', 'Eating')]",0
+15766,QRILIIKV,train,"[('Fish', 'Swimming'), ('Moray Eel', 'Keeping still'), ('Moray Eel', 'Swimming')]",0
+15779,QRQSOCND,train,"[('Snake', 'Eating'), ('Fish', 'Being Eaten')]",0
+15801,QSHVMUPH,train,"[('Trout', 'Swimming')]",0
+15832,QTDYTXEV,train,"[('Fish', 'Keeping still')]",0
+15845,QTKEEHVR,train,"[('Dice Snake', 'Biting'), ('Perch Fish', 'Being Eaten')]",0
+15862,QTVATNPL,train,"[('Bottlenose Dolphin', 'Swimming'), ('Pufferfish', 'Being Carried In Mouth')]",0
+15869,QUBWAKGZ,train,"[('Fish', 'Attending')]",0
+15890,QUTETUPH,train,"[('Trout', 'Swimming')]",0
+15901,QVBTCLHH,train,"[('African Clawed Toad', 'Moving'), ('Fish', 'Swimming')]",0
+16015,QYLCNFGA,train,"[('Dolphin', 'Swimming'), ('Fish', 'Swimming')]",0
+16078,RAKRBWWK,train,"[('Fish', 'Swimming')]",0
+16119,RBFIWCND,train,"[('Snake', 'Eating'), ('Fish', 'Being Eaten')]",0
+16124,RBIZVPDI,train,"[('Fish', 'Swimming')]",0
+16135,RBOWIKGZ,train,"[('Fish', 'Keeping still')]",0
+16176,RCTSTKGZ,train,"[('Sea Toad Fish', 'Swimming')]",0
+16298,RGGZJPIF,train,"[('Sardine', 'Fleeing'), ('Sardine', 'Swimming'), ('Sea Lion', 'Attacking')]",1
+16349,RHRCOPAB,train,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Keeping still'), ('Dice Snake', 'Being Carried In Mouth')]",0
+16393,RIYFKUPH,train,"[('Catfish', 'Drifting')]",0
+16415,RJSLUKGZ,train,"[('Sea Toad Fish', 'Keeping still')]",0
+16425,RJYLTPJK,train,"[('Fish', 'Swimming')]",0
+16459,RKXEAPDI,train,"[('Fish', 'Swimming')]",0
+16493,RLUVUPIF,train,"[('Sardine', 'Swimming')]",0
+16517,RMGWYPDI,train,"[('Fish', 'Keeping still'), ('Fish', 'Entering its nest')]",0
+16533,RMRJAFFP,train,"[('Archer Fish', 'Sensing')]",0
+16566,RNPOFPIF,train,"[('Copper Shark', 'Eating'), ('Sardine', 'Swimming'), ('Sea Lion', 'Swimming')]",0
+16581,RNYQWNXN,train,"[('Orange Clownfish', 'Sensing')]",0
+16628,RPHSNUPH,train,"[('Pike Perch Fish', 'Swimming'), ('Pike Perch Fish', 'Attacking')]",1
+16638,RPLYBZAA,train,"[('Fish', 'Keeping still'), ('Fish', 'Sensing')]",0
+16652,RPYZPUPH,train,"[('Catfish', 'Keeping still')]",0
+16666,RQGKDPDI,train,"[('Fish', 'Attending')]",0
+16686,RQSBUUPH,train,"[('Sterlet Fish', 'Swimming')]",0
+16702,RRCURPAB,train,"[('Perch Fish', 'Struggling')]",1
+16752,RSPYTFFP,train,"[('Pistol Shrimp', 'Digging'), ('Yellow Watchman Goby Fish', 'Keeping still')]",0
+16759,RSXEKFFP,train,"[('Archer Fish', 'Keeping still')]",0
+16770,RTGHFKGZ,train,"[('Fish', 'Swimming')]",0
+16781,RTKBDZAA,train,"[('Atlantic Blue Tang Fish', 'Swimming'), ('Black Durgon Fish', 'Swimming')]",0
+16796,RTXFDNJC,train,"[('Dolphin', 'Surfacing'), ('Fish', 'Surfacing')]",0
+16835,RVKTBIKV,train,"[('Stonefish', 'Digging')]",0
+16946,RYVQIDWZ,train,"[('Fish', 'Swimming'), ('Stingray', 'Keeping still')]",0
+16992,SARSBHVR,train,"[('Dice Snake', 'Keeping still'), ('Perch Fish', 'Dead')]",0
+17057,SCKAAUPH,train,"[('Pike Perch Fish', 'Swimming'), ('Pike Perch Fish', 'Attacking')]",1
+17059,SCLHYKGZ,train,"[('Sea Toad Fish', 'Swimming')]",0
+17077,SDBQXZAA,train,"[('Fish', 'Swimming')]",0
+17085,SDFWWUPH,train,"[('Sterlet Fish', 'Swimming')]",0
+17087,SDHZAPAB,train,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Moving')]",0
+17125,SELQAPDI,train,"[('Fish', 'Swimming')]",0
+17128,SEMUWHVR,train,"[('Dice Snake', 'Biting'), ('Perch Fish', 'Being Eaten')]",0
+17132,SERERIKV,train,"[('Fish', 'Swimming'), ('Stonefish', 'Keeping still')]",0
+17206,SGKBMZAA,train,"[('Fish', 'Swimming'), ('Sergeant Major Fish', 'Swimming')]",0
+17257,SHRJHFFP,train,"[('Mimic Blenny Fish', 'Sensing')]",0
+17353,SKGTTNXN,train,"[('Orca', 'Eating'), ('Fish', 'Swimming'), ('Fish', 'Eating'), ('Orca', 'Swimming')]",0
+17440,SMRYHUPH,train,"[('Trout Young', 'Eating')]",0
+17450,SMXQYIKV,train,"[('Fish', 'Swimming')]",0
+17457,SNBOWUPH,train,"[('Catfish', 'Swimming')]",0
+17467,SNGQPUPH,train,"[('Sterlet Fish', 'Swimming')]",0
+17473,SNJMKPDI,train,"[('Fish', 'Swimming')]",0
+17495,SOEBIFFP,train,"[('Pistol Shrimp', 'Digging'), ('Yellow Watchman Goby Fish', 'Keeping still')]",0
+17512,SOUPAPDI,train,"[('Fish', 'Swimming')]",0
+17569,SQDOUPIF,train,"[('Sardine', 'Fleeing'), ('Sardine', 'Swimming'), ('Sea Lion', 'Attacking')]",1
+17612,SRGPZBSK,train,"[('Carcharhinus Galapagensis', 'Swimming'), ('Fish', 'Swimming')]",0
+17613,SRGZIXEV,train,"[('Fish', 'Swimming')]",0
+17627,SRTBTUPH,train,"[('Danube Salmon', 'Swimming'), ('Grayling Fish', 'Swimming')]",0
+17659,SSUQZPAB,train,"[('Common Bleak', 'Being Eaten'), ('Dice Snake', 'Eating')]",0
+17680,STMTDZAA,train,"[('Yellowtail Fusilier Fish', 'Swimming'), ('Altantic Stingray', 'Digging')]",0
+17712,SUMZBKGZ,train,"[('Sea Toad Fish', 'Keeping still'), ('Sea Toad Fish', 'Sensing')]",0
+17745,SVPHQPAB,train,"[('Common Bleak', 'Being Eaten'), ('Dice Snake', 'Eating')]",0
+17757,SVTRRZAA,train,"[('Atlantic Blue Tang Fish', 'Swimming')]",0
+17829,SXYHZPIF,train,"[('Sardine', 'Swimming'), ('Sea Lion', 'Eating')]",0
+17861,SYOPNPAB,train,"[('Vimba Fish', 'Being Eaten'), ('Dice Snake', 'Eating')]",0
+17876,SYWDLPAB,train,"[('Common Bleak', 'Swimming'), ('Dice Snake', 'Attacking')]",0
+17901,SZPVDMHZ,train,"[('Fish', 'Carrying In Mouth'), ('Natrix Tessellata Snake', 'Biting')]",0
+17921,TADXJNXN,train,"[('Manta Ray', 'Swimming'), ('Fish', 'Swimming')]",0
+17955,TAVKXKGZ,train,"[('Fish', 'Swimming')]",0
+17962,TAYOLNPL,train,"[('Bottlenose Dolphin', 'Swimming'), ('Pufferfish', 'Carrying In Mouth')]",0
+17964,TAYXNDWZ,train,"[('Fish', 'Swimming'), ('Shark', 'Swimming'), ('Stingray', 'Swimming')]",0
+17984,TBOWLPIF,train,"[('Sardine', 'Fleeing'), ('Sardine', 'Swimming'), ('Sea Lion', 'Attacking')]",1
+18097,TESCJXFE,train,"[('Tern', 'Flying'), ('Giant Trevally', 'Surfacing')]",0
+18101,TEUIENXN,train,"[('Orange Clownfish', 'Sensing')]",0
+18104,TEWPQPIF,train,"[('Salmon', 'Jumping'), ('Grizzly Bear', 'Attending')]",0
+18117,TFFWUUPH,train,"[('Sterlet Fish', 'Swimming')]",0
+18120,TFHZTFFP,train,"[('Fish', 'Swimming')]",0
+18161,TGDYMPJK,train,"[('Fish', 'Swimming')]",0
+18192,TGWSCFFP,train,"[('Archer Fish', 'Sensing')]",0
+18238,TIINMGQD,train,"[('Fish', 'Swimming')]",0
+18246,TINILPLS,train,"[('Fish', 'Being Eaten'), ('Ardea Alba Egret', 'Walking'), ('Ardea Alba Egret', 'Eating'), ('Ardea Alba Egret', 'Shaking Head'), ('Fish', 'Walking')]",0
+18308,TKWMWUPH,train,"[('Catfish', 'Swimming')]",0
+18313,TLBDLZAA,train,"[('Yellow Wrasse Fish', 'Swimming'), ('Bluehead Wrasse Fish', 'Swimming')]",0
+18336,TLVKSPAB,train,"[('Dice Snake', 'Exploring'), ('Perch Fish', 'Walking')]",0
+18350,TMEQDUPH,train,"[('Sterlet Fish', 'Swimming'), ('Grayling Fish', 'Swimming')]",0
+18372,TMTTBPIF,train,"[('Sardine', 'Swimming')]",0
+18400,TNQUBMHZ,train,"[('Fish', 'Carrying In Mouth'), ('Natrix Tessellata Snake', 'Biting')]",0
+18422,TOGAQUPH,train,"[('Pike Perch Fish', 'Swimming'), ('Pike Perch Fish', 'Attacking')]",1
+18501,TQAZYPAB,train,"[('Common Bleak', 'Biting'), ('Dice Snake', 'Biting'), ('Common Bleak', 'Being Carried In Mouth'), ('Dice Snake', 'Being Carried In Mouth')]",1
+18546,TRIGTIKV,train,"[('Fish', 'Swimming'), ('Sea Snake', 'Swimming')]",0
+18635,TTQDQFGA,train,"[('Fish', 'Swimming')]",0
+18681,TVESFNXN,train,"[('Manta Ray', 'Swimming'), ('Fish', 'Swimming')]",0
+18711,TWECXFFP,train,"[('Fish', 'Swimming')]",0
+18734,TWXSTFFP,train,"[('Fish', 'Swimming')]",0
+18740,TXAXTFFP,train,"[('Fish', 'Swimming'), ('Dog Faced Water Snake', 'Keeping still')]",0
+18743,TXCWKFGA,train,"[('Fish', 'Swimming'), ('Bird', 'Attacking')]",0
+18760,TXPWKNPL,train,"[('Bottlenose Dolphin', 'Swimming'), ('Pufferfish', 'Swimming')]",0
+18781,TYBROBSK,train,"[('Fish', 'Swimming'), ('Fish', 'Eating'), ('Carcharhinus Limbatus', 'Swimming')]",0
+18811,TYVMVUPH,train,"[('Fish', 'Swimming')]",0
+18814,TYXOXIKV,train,"[('Barracuda Fish', 'Swimming')]",0
+18890,UBJMDMHZ,train,"[('Fish', 'Being Eaten'), ('Natrix Tessellata Snake', 'Eating')]",0
+18912,UBWSXPAB,train,"[('Dice Snake', 'Biting'), ('Perch Fish', 'Struggling')]",1
+18920,UCDSDPAB,train,"[('Dice Snake', 'Biting'), ('Perch Fish', 'Struggling')]",1
+19017,UEFJOXFE,train,"[('Giant Trevally', 'Eating')]",0
+19062,UFOAEUPH,train,"[('Danube Salmon', 'Eating')]",0
+19082,UGBVBFFP,train,"[('Archer Fish', 'Jumping'), ('Archer Fish', 'Eating')]",0
+19178,UIRJPUPH,train,"[('Pike Perch Fish', 'Swimming'), ('Pike Perch Fish', 'Attacking')]",1
+19205,UJMPTHVR,train,"[('Dice Snake', 'Biting'), ('Perch Fish', 'Being Eaten')]",0
+19228,UJZGNUPH,train,"[('Danube Bleak Fish', 'Swimming')]",0
+19239,UKJLNFFP,train,"[('Fish', 'Swimming')]",0
+19367,UNVDQUPH,train,"[('Danube Salmon', 'Eating')]",0
+19378,UODEKUPH,train,"[('Sterlet Fish', 'Swimming'), ('Sterlet Fish', 'Eating')]",0
+19396,UONMANPL,train,"[('Bottlenose Dolphin', 'Swimming'), ('Bottlenose Dolphin', 'Being Carried In Mouth'), ('Pufferfish', 'Carrying In Mouth')]",0
+19414,UOYFQHVR,train,"[('Dice Snake', 'Biting'), ('Perch Fish', 'Being Eaten')]",0
+19469,UQXAJIKV,train,"[('Fish', 'Swimming'), ('Moray Eel', 'Sensing'), ('Moray Eel', 'Drifting')]",0
+19509,URVIFKGZ,train,"[('Sea Toad Fish', 'Keeping still')]",0
+19558,UTIZONPL,train,"[('Bottlenose Dolphin', 'Swimming'), ('Pufferfish', 'Swimming')]",0
+19562,UTJYHIKV,train,"[('Stonefish', 'Eating'), ('Fish', 'Being Eaten')]",0
+19596,UUIBTHVR,train,"[('Dice Snake', 'Keeping still'), ('Fish', 'Swimming'), ('Dice Snake', 'Swimming')]",0
+19597,UUJBDPAB,train,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Being Carried In Mouth')]",0
+19617,UUVXKPDI,train,"[('Fish', 'Swimming')]",0
+19622,UVAHQFFP,train,"[('Pistol Shrimp', 'Digging'), ('Yellow Watchman Goby Fish', 'Keeping still')]",0
+19639,UVHZNUPH,train,"[('Eel', 'Keeping still')]",0
+19645,UVNIFNXN,train,"[('Fish', 'Swimming'), ('Orca', 'Swimming')]",0
+19739,UYPBCPLS,train,"[('Ardea Alba Egret', 'Drinking'), ('Ardea Alba Egret', 'Eating'), ('Ardea Alba Egret', 'Shaking Head'), ('Fish', 'Spreading Wings'), ('Ardea Alba Egret', 'Sensing')]",0
+19742,UYTSHUPH,train,"[('Trout Young', 'Keeping still'), ('Trout Young', 'Sensing')]",0
+19767,UZKCVPDI,train,"[('Fish', 'Swimming')]",0
+19775,UZPZVPIF,train,"[('Copper Shark', 'Swimming'), ('Fish', 'Swimming'), ('Sea Lion', 'Swimming')]",0
+19782,UZTPKUPH,train,"[('Fish', 'Swimming'), ('Fish', 'Eating')]",0
+19791,VAACJKBS,train,"[('Fish', 'Swimming'), ('Turtle', 'Sensing')]",0
+19797,VACUGUPH,train,"[('Trout Young', 'Eating')]",0
+19819,VAUEGIKV,train,"[('Moray Eel', 'Keeping still')]",0
+19844,VBLBRUPH,train,"[('Trout', 'Swimming')]",0
+19866,VBYXKFFP,train,"[('Round Face Bat Fish', 'Eating')]",0
+19882,VCIVCKGZ,train,"[('Sea Toad Fish', 'Keeping still')]",0
+19914,VDEKCMHZ,train,"[('Natrix Tessellata Snake', 'Moving'), ('Fish', 'Swimming')]",0
+19964,VEWFJPDI,train,"[('Fish', 'Swimming')]",0
+19965,VEWKCUPH,train,"[('Pike Perch Fish', 'Swimming')]",0
+19971,VEZQSPIF,train,"[('Sardine', 'Fleeing'), ('Sardine', 'Swimming'), ('Sea Lion', 'Attacking')]",1
+19984,VFJBLPIF,train,"[('Copper Shark', 'Swimming'), ('Fish', 'Swimming')]",0
+20000,VFTLJFFP,train,"[('Mimic Blenny Fish', 'Swimming'), ('Mimic Blenny Fish', 'Sensing')]",0
+20039,VGZEXUPH,train,"[('Danube Salmon', 'Swimming'), ('Grayling Fish', 'Swimming')]",0
+20075,VHYIQPIK,train,"[('Moray Eel', 'Yawning')]",0
+20091,VIKKQKGZ,train,"[('Fish', 'Swimming')]",0
+20115,VJCBRPIF,train,"[('Dolphin', 'Eating'), ('Sardine', 'Swimming')]",0
+20163,VKJRCMHZ,train,"[('Fish', 'Dead'), ('Fish', 'Hissing'), ('Natrix Tessellata Snake', 'Keeping still'), ('Natrix Tessellata Snake', 'Hissing')]",0
+20164,VKJWSFFP,train,"[('Insect', 'Being Eaten'), ('Archer Fish', 'Eating')]",0
+20193,VLHQWUPH,train,"[('Trout Young', 'Keeping still')]",0
+20195,VLIMQPIF,train,"[('Copper Shark', 'Swimming'), ('Fish', 'Swimming')]",0
+20209,VLNXPKGZ,train,"[('Fish', 'Swimming')]",0
+20214,VLTEMKEW,train,"[('Fish', 'Jumping'), ('Pelican', 'Eating')]",0
+20224,VMARFPIF,train,"[('Sardine', 'Swimming')]",0
+20271,VNWXTPDI,train,"[('Fish', 'Swimming')]",0
+20299,VOSRCUPH,train,"[('Fish', 'Swimming')]",0
+20318,VPGLGXFE,train,"[('Giant Trevally', 'Eating')]",0
+20353,VQIZPPLS,train,"[('Fish', 'Being Eaten'), ('Ardea Alba Egret', 'Drinking'), ('Ardea Alba Egret', 'Eating'), ('Ardea Alba Egret', 'Shaking Head'), ('Fish', 'Spreading Wings'), ('Ardea Alba Egret', 'Sensing')]",0
+20381,VRDSIMHZ,train,"[('Fish', 'Struggling'), ('Natrix Tessellata Snake', 'Sensing')]",1
+20384,VREHHPIF,train,"[('Salmon', 'Swimming')]",0
+20394,VRMJRFFP,train,"[('Archer Fish', 'Spitting')]",0
+20471,VTQQYUPH,train,"[('Catfish', 'Keeping still')]",0
+20485,VUAVUPDI,train,"[('Fish', 'Swimming')]",0
+20569,VWIVSUPH,train,"[('Sterlet Fish', 'Sensing')]",0
+20577,VWNQZKGZ,train,"[('Sea Toad Fish', 'Keeping still')]",0
+20603,VXJFRNOT,train,"[('Fish', 'Keeping still')]",0
+20648,VYWUCLHH,train,"[('Fish', 'Swimming'), ('African Clawed Toad', 'Keeping still')]",0
+20655,VZBAZPIF,train,"[('Copper Shark', 'Swimming'), ('Fish', 'Swimming')]",0
+20672,VZPLMPAB,train,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Moving')]",0
+20710,WASWTUPH,train,"[('Fish', 'Eating'), ('Fish', 'Being Eaten')]",0
+20780,WCSCDZAA,train,"[('Fish', 'Swimming')]",0
+20786,WCZFXXFE,train,"[('Giant Trevally', 'Eating'), ('Tern', 'Being Eaten')]",0
+20809,WDMMFUPH,train,"[('Danube Salmon', 'Eating')]",0
+20843,WEJHDMHZ,train,"[('Fish', 'Dead'), ('Natrix Tessellata Snake', 'Keeping still')]",0
+20881,WFIVLPDI,train,"[('Fish', 'Swimming')]",0
+20901,WFXEQFFP,train,"[('Fish', 'Swimming')]",0
+21050,WKRXEGIW,train,"[('Grey Heron', 'Biting'), ('Fish', 'Being Eaten')]",0
+21057,WKWHCUPH,train,"[('Pike Perch Fish', 'Swimming'), ('Pike Perch Fish', 'Attacking')]",1
+21062,WLBFHPAB,train,"[('Dice Snake', 'Biting'), ('Common Bleak', 'Being Carried In Mouth')]",0
+21156,WNYIPPIF,train,"[('Salmon', 'Jumping'), ('Grizzly Bear', 'Preying')]",0
+21157,WNZBEPAB,train,"[('Dice Snake', 'Biting'), ('Perch Fish', 'Struggling')]",1
+21200,WPMDYPDI,train,"[('Fish', 'Swimming')]",0
+21208,WPPENKGZ,train,"[('Sea Toad Fish', 'Swimming')]",0
+21262,WRBGSHVR,train,"[('Dice Snake', 'Moving'), ('Dice Snake', 'Biting'), ('Perch Fish', 'Being Eaten')]",0
+21307,WSNKDFGA,train,"[('Fish', 'Swimming')]",0
+21331,WTMDXFFP,train,"[('Mimic Blenny Fish', 'Sensing')]",0
+21350,WUDHYXFE,train,"[('Tern', 'Attacking'), ('Giant Trevally', 'Surfacing')]",0
+21373,WUWVCPIF,train,"[('Sardine', 'Swimming')]",0
+21411,WWMSIPDI,train,"[('Fish', 'Swimming')]",0
+21574,XBQHTUPH,train,"[('Pike Perch Fish', 'Swimming'), ('Pike Perch Fish', 'Attacking')]",1
+21620,XCWUUUPH,train,"[('Danube Salmon', 'Eating')]",0
+21623,XCYMLKGZ,train,"[('Fish', 'Swimming')]",0
+21634,XDMOMUPH,train,"[('Danube Bleak Fish', 'Swimming')]",0
+21637,XDOAFPJK,train,"[('Fish', 'Swimming')]",0
+21641,XDVRDKGZ,train,"[('Sea Toad Fish', 'Keeping still'), ('Sea Toad Fish', 'Flapping Tail'), ('Sea Toad Fish', 'Sensing')]",0
+21650,XDZNGKGZ,train,"[('Fish', 'Keeping still')]",0
+21686,XFDKFPAB,train,"[('Perch Fish', 'Being Eaten'), ('Dice Snake', 'Eating')]",0
+21694,XFLDUPDI,train,"[('Fish', 'Swimming')]",0
+21705,XFVXKUPH,train,"[('Pike Perch Fish', 'Swimming')]",0
+21711,XFXTIPDI,train,"[('Fish', 'Sensing'), ('Fish', 'Entering its nest')]",0
+21726,XGLUCNXN,train,"[('Fish', 'Swimming')]",0
+21758,XHMNLUPH,train,"[('Danube Bleak Fish', 'Swimming')]",0
+21795,XIVMUPLS,train,"[('Ardea Alba Egret', 'Biting'), ('Fish', 'Biting'), ('Fish', 'Being Carried In Mouth'), ('Ardea Alba Egret', 'Attacking')]",1
+21854,XKOCAHVR,train,"[('Dice Snake', 'Moving'), ('Perch Fish', 'Biting')]",1
+21866,XKWSEUPH,train,"[('Danube Bleak Fish', 'Swimming')]",0
+21923,XMQLYKGZ,train,"[('Sea Toad Fish', 'Keeping still'), ('Sea Toad Fish', 'Flapping Tail')]",0
+21933,XMYPJPDI,train,"[('Fish', 'Swimming')]",0
+22017,XPOOYNXN,train,"[('Fish', 'Sensing'), ('Turtle', 'Eating')]",0
+22030,XQAPXPKL,train,"[('Lightfoot Crab', 'Fleeing'), ('Eel', 'Attacking')]",1
+22140,XSYIWPIF,train,"[('Salmon', 'Jumping'), ('Grizzly Bear', 'Eating')]",0
+22341,XZTDNQCJ,train,"[('Fish', 'Swimming'), ('Mantis Shrimp', 'Keeping still')]",0
+22358,YAFNUKGZ,train,"[('Fish', 'Swimming')]",0
+22415,YCAUJUPH,train,"[('Trout', 'Swimming')]",0
+22421,YCKKRUPH,train,"[('Pike Perch Fish', 'Swimming'), ('Pike Perch Fish', 'Attacking')]",1
+22423,YCLQBFFP,train,"[('Archer Fish', 'Swimming')]",0
+22425,YCMRGPIF,train,"[('Salmon', 'Being Eaten'), ('Grizzly Bear', 'Biting')]",0
+22449,YDHEVPIF,train,"[('Sardine', 'Swimming')]",0
+22524,YFWXBZAA,train,"[('Fish', 'Swimming')]",0
+22593,YHVKQPDI,train,"[('Fish', 'Swimming')]",0
+22611,YIIPEHVR,train,"[('Perch Fish', 'Escaping'), ('Dice Snake', 'Eating')]",0
+22712,YLNLTUPH,train,"[('Tench Fish', 'Swimming')]",0
+22771,YNEOGBSK,train,"[('Fish', 'Swimming'), ('Galeocerdo Cuvier', 'Swimming')]",0
+22814,YOFYSMHZ,train,"[('Fish', 'Carrying In Mouth'), ('Natrix Tessellata Snake', 'Biting')]",0
+22823,YOMPYKGZ,train,"[('Fish', 'Swimming')]",0
+22848,YPKQVFFP,train,"[('Barramundi Fish', 'Swimming')]",0
+22850,YPNEDKGZ,train,"[('Fish', 'Sensing')]",0
+22852,YPNUVIKV,train,"[('Stonefish', 'Eating'), ('Fish', 'Sensing'), ('Fish', 'Being Eaten')]",0
+22903,YRGIAUPH,train,"[('Pike Perch Fish', 'Swimming'), ('Pike Perch Fish', 'Attacking')]",1
+22972,YTCXFUPH,train,"[('Sterlet Fish', 'Swimming')]",0
+22981,YTLYNPAB,train,"[('Dice Snake', 'Biting'), ('Perch Fish', 'Moving')]",0
+23065,YWATMIKV,train,"[('Fish', 'Swimming'), ('Moray Eel', 'Keeping still'), ('Moray Eel', 'Sensing')]",0
+23080,YWMBXPDI,train,"[('Fish', 'Swimming')]",0
+23102,YXIPYHVR,train,"[('Dice Snake', 'Keeping still'), ('Perch Fish', 'Dead')]",0
+23130,YYKDYUPH,train,"[('Pike Perch Fish', 'Exploring')]",0
+23155,YZFRMPIF,train,"[('Salmon', 'Being Eaten'), ('Grizzly Bear', 'Eating')]",0
+23212,ZBITFPLS,train,"[('Fish', 'Spreading Wings'), ('Ardea Alba Egret', 'Eating')]",0
+23236,ZCCBOPIF,train,"[('Sardine', 'Swimming')]",0
+23238,ZCCYAPKL,train,"[('Fish', 'Swimming')]",0
+23252,ZCJTVKGZ,train,"[('Fish', 'Swimming')]",0
+23320,ZFENPFFP,train,"[('Yellow Watchman Goby Fish', 'Attending')]",0
+23334,ZFPMMCND,train,"[('Snake', 'Eating'), ('Fish', 'Struggling')]",1
+23364,ZGEFWPIF,train,"[('Salmon', 'Jumping'), ('Grizzly Bear', 'Eating')]",0
+23417,ZHYSEFFP,train,"[('Yellow Watchman Goby Fish', 'Keeping still')]",0
+23539,ZLSWCUPH,train,"[('Danube Salmon', 'Eating')]",0
+23557,ZMJHEPAB,train,"[('Dice Snake', 'Biting'), ('Perch Fish', 'Flapping Tail')]",0
+23565,ZMRDDIKV,train,"[('Fish', 'Swimming'), ('Moray Eel', 'Keeping still'), ('Moray Eel', 'Swimming')]",0
+23624,ZOKGRPIF,train,"[('Shearwater Bird', 'Fleeing'), ('Sea Lion', 'Swimming'), ('Shearwater Bird', 'Swimming'), ('Sardine', 'Fleeing'), ('Sardine', 'Swimming')]",1
+23643,ZOXYAUPH,train,"[('Danube Salmon', 'Swimming'), ('Grayling Fish', 'Swimming')]",0
+23686,ZQFMSPIF,train,"[('Sardine', 'Swimming')]",0
+23699,ZQPQZUPH,train,"[('Pike Perch Fish', 'Swimming'), ('Lobster', 'Fleeing'), ('Pike Perch Fish', 'Attacking'), ('Pike Perch Fish', 'Exploring')]",1
+23737,ZRXVPPDI,train,"[('Fish', 'Swimming')]",0
+23772,ZSYYJPKL,train,"[('Fish', 'Swimming')]",0
+23776,ZTBVZMHZ,train,"[('Natrix Tessellata Snake', 'Biting'), ('Fish', 'Being Carried In Mouth'), ('Fish', 'Being Eaten'), ('Fish', 'Carrying In Mouth'), ('Natrix Tessellata Snake', 'Eating')]",0
+23839,ZUSJMPJK,train,"[('Fish', 'Swimming'), ('Jellyfish', 'Swimming')]",0
+23854,ZVHKQUPH,train,"[('Sterlet Fish', 'Swimming')]",0
+23868,ZVTIXPLS,train,"[('Ardea Alba Egret', 'Eating'), ('Fish', 'Being Eaten')]",0
+23890,ZWPXQPIK,train,"[('Bull Shark', 'Swimming'), ('Fish', 'Swimming')]",0
+23902,ZXAIRPIK,train,"[('Fish', 'Swimming')]",0
+23933,ZXUZICND,train,"[('Snake', 'Eating'), ('Fish', 'Escaping')]",0
+23936,ZYBFPPIF,train,"[('Salmon', 'Jumping'), ('Grizzly Bear', 'Eating')]",0
+23941,ZYDHNNPL,train,"[('Bottlenose Dolphin', 'Swimming'), ('Pufferfish', 'Getting Bullied')]",0
+23955,ZYLYVPIF,train,"[('Sardine', 'Fleeing'), ('Sardine', 'Swimming'), ('Sea Lion', 'Attacking')]",1
+23968,ZYWUWPAB,train,"[('Dice Snake', 'Exploring'), ('Vimba Fish', 'Dead')]",0
+23970,ZYXQEPIF,train,"[('Sardine', 'Swimming')]",0
+23982,ZZJIJKGZ,train,"[('Fish', 'Swimming'), ('Lobster', 'Swimming')]",0
+24031,ADCLMNPL,test,"[('Bottlenose Dolphin', 'Swimming'), ('Pufferfish', 'Carrying In Mouth')]",0
+24183,ATRQHPAB,test,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Being Carried In Mouth')]",0
+24288,BFRPKXEV,test,"[('Fish', 'Swimming')]",0
+24292,BGAPQHVR,test,"[('Dice Snake', 'Biting'), ('Perch Fish', 'Being Eaten')]",0
+24337,BKEENPAB,test,"[('Dice Snake', 'Biting'), ('Common Bleak', 'Being Carried In Mouth')]",0
+24372,BMYVVFFP,test,"[('Fish', 'Swimming'), ('Damsel Fish', 'Swimming')]",0
+24434,BUGWQNPL,test,"[('Bottlenose Dolphin', 'Swimming'), ('Pufferfish', 'Being Carried In Mouth')]",0
+24535,CFMTRNXN,test,"[('Orange Clownfish', 'Swimming'), ('Orange Clownfish', 'Sensing')]",0
+24669,CSIJTPAB,test,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Being Carried In Mouth')]",0
+24674,CSRQNFFP,test,"[('Butterfly Fish', 'Swimming')]",0
+24708,CVGMSXFE,test,"[('Tern', 'Flying'), ('Giant Trevally', 'Surfacing')]",0
+24725,CWQSBHVR,test,"[('Dice Snake', 'Biting'), ('Perch Fish', 'Being Eaten')]",0
+24737,CXYCYFFP,test,"[('Yellow Watchman Goby Fish', 'Moving'), ('Pistol Shrimp', 'Digging')]",0
+24788,DDGDMFFP,test,"[('Butterfly Fish', 'Swimming')]",0
+24801,DEMWBPAB,test,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Being Carried In Mouth')]",0
+25036,EDOCWFGA,test,"[('Dolphin', 'Swimming'), ('Fish', 'Swimming')]",0
+25042,EEMFGFGA,test,"[('Dolphin', 'Swimming'), ('Fish', 'Swimming')]",0
+25054,EGZQYGIW,test,"[('Grey Heron', 'Attending'), ('Fish', 'Being Carried In Mouth')]",0
+25059,EIBCFPIK,test,"[('Fish', 'Swimming')]",0
+25127,EPENIPLS,test,"[('Fish', 'Spreading Wings'), ('Ardea Alba Egret', 'Eating'), ('Ardea Alba Egret', 'Drinking')]",0
+25140,EQMCFJKU,test,"[('Fish', 'Swimming'), ('Turtle', 'Sensing')]",0
+25198,EWMBNBSK,test,"[('Carcharias Taurus', 'Swimming'), ('Fish', 'Swimming')]",0
+25206,EXLSKNPL,test,"[('Pufferfish', 'Swimming')]",0
+25305,FJGWPNPL,test,"[('Bottlenose Dolphin', 'Swimming'), ('Bottlenose Dolphin', 'Attacking'), ('Pufferfish', 'Getting Bullied')]",0
+25329,FMMIZFGA,test,"[('Dolphin', 'Swimming'), ('Fish', 'Swimming')]",0
+25347,FOBTVRGE,test,"[('Marine Iguana', 'Eating'), ('Fish', 'Eating')]",0
+25406,FTYJYMHZ,test,"[('Fish', 'Being Eaten'), ('Fish', 'Struggling'), ('Natrix Tessellata Snake', 'Eating')]",1
+25471,FZXOEBSK,test,"[('Carcharhinus Limbatus', 'Eating'), ('Fish', 'Swimming'), ('Carcharhinus Limbatus', 'Swimming')]",0
+25488,GBNODBSK,test,"[('Fish', 'Swimming'), ('Sea Turtle', 'Swimming'), ('Galeocerdo Cuvier', 'Swimming')]",0
+25581,GLJQQNOT,test,"[('Fish', 'Swimming')]",0
+25593,GMPPMKEW,test,"[('Fish', 'Jumping'), ('Pelican', 'Eating')]",0
+25764,HIKKUPIK,test,"[('Fish', 'Swimming')]",0
+25780,HJPOXPKT,test,"[('Fish', 'Jumping'), ('Сommon Eider', 'Retreating')]",0
+25824,HNZYINOT,test,"[('Fish', 'Swimming')]",0
+25833,HOQHXPIK,test,"[('Salmon', 'Swimming')]",0
+25932,IAGDBPAB,test,"[('Dice Snake', 'Biting'), ('Common Bleak', 'Being Carried In Mouth'), ('Common Bleak', 'Immobilized'), ('Dice Snake', 'Exploring')]",0
+26018,IJDSRPAB,test,"[('Dice Snake', 'Biting'), ('Common Bleak', 'Being Carried In Mouth')]",0
+26042,IMMDGLHH,test,"[('Fish', 'Swimming'), ('African Clawed Toad', 'Keeping still')]",0
+26083,IQJSRFFP,test,"[('Fish', 'Swimming')]",0
+26108,ISUWGFGA,test,"[('Dolphin', 'Swimming'), ('Fish', 'Swimming')]",0
+26133,IVLUEPIK,test,"[('Fish', 'Swimming')]",0
+26226,JEJNKXFE,test,"[('Giant Trevally', 'Swimming')]",0
+26257,JGRLULHH,test,"[('Fish', 'Keeping still')]",0
+26278,JIVLPNOT,test,"[('Fish', 'Swimming')]",0
+26496,KJDTKMHZ,test,"[('Natrix Tessellata Snake', 'Attacking'), ('Fish', 'Swimming')]",0
+26503,KJXNNBSK,test,"[('Carcharhinus Galapagensis', 'Swimming'), ('Fish', 'Swimming')]",0
+26526,KNNRMMHZ,test,"[('Natrix Tessellata Snake', 'Struggling'), ('Natrix Tessellata Snake', 'Biting'), ('Natrix Tessellata Snake', 'Sensing'), ('Fish', 'Struggling'), ('Fish', 'Biting'), ('Fish', 'Carrying In Mouth')]",1
+26546,KPKBAKGZ,test,"[('Sea Toad Fish', 'Sensing')]",0
+26568,KRFRMMHZ,test,"[('Fish', 'Being Eaten'), ('Natrix Tessellata Snake', 'Eating')]",0
+26661,LEBWLFFP,test,"[('Clownfish', 'Swimming'), ('Clownfish', 'Sensing')]",0
+26685,LGZUFNPL,test,"[('Bottlenose Dolphin', 'Surfacing'), ('Pufferfish', 'Being Carried In Mouth')]",0
+26703,LIXAHBSK,test,"[('Carcharhinus Limbatus', 'Eating'), ('Fish', 'Swimming')]",0
+26710,LJJJTBSK,test,"[('Fish', 'Eating'), ('Carcharhinus Limbatus', 'Swimming')]",0
+26810,LVJEPPLS,test,"[('Fish', 'Spreading Wings'), ('Ardea Alba Egret', 'Eating'), ('Fish', 'Being Eaten'), ('Ardea Alba Egret', 'Drinking')]",0
+26883,MDUWMFFP,test,"[('Fish', 'Swimming')]",0
+26903,MGJIVFGA,test,"[('Fish', 'Swimming')]",0
+26924,MIEUIPIF,test,"[('Sardine', 'Fleeing'), ('Sea Lion', 'Swimming'), ('Shearwater Bird', 'Swimming'), ('Sardine', 'Swimming')]",1
+27018,MRSVAHVR,test,"[('Perch Fish', 'Being Eaten'), ('Dice Snake', 'Eating')]",0
+27076,MZFMMHVR,test,"[('Perch Fish', 'Being Eaten'), ('Perch Fish', 'Escaping'), ('Dice Snake', 'Escaping'), ('Perch Fish', 'Eating'), ('Dice Snake', 'Eating')]",0
+27114,NDOGZUPH,test,"[('Danube Salmon', 'Drifting')]",0
+27132,NFLZWFGA,test,"[('Bird', 'Diving'), ('Fish', 'Swimming'), ('Bird', 'Swimming')]",0
+27160,NIHSGHVR,test,"[('Dice Snake', 'Biting'), ('Perch Fish', 'Being Eaten')]",0
+27181,NLAFXGIW,test,"[('Grey Heron', 'Attending'), ('Fish', 'Being Carried In Mouth')]",0
+27261,NUIUBXFE,test,"[('Giant Trevally', 'Eating'), ('Tern', 'Being Eaten')]",0
+27347,ODNPHFGA,test,"[('Bird', 'Diving'), ('Fish', 'Swimming'), ('Bird', 'Swimming')]",0
+27442,ONCUPPAB,test,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Being Carried In Mouth')]",0
+27543,OZYSCHVR,test,"[('Perch Fish', 'Being Eaten'), ('Perch Fish', 'Escaping'), ('Dice Snake', 'Escaping'), ('Perch Fish', 'Eating'), ('Dice Snake', 'Eating')]",0
+27556,PATQEFFP,test,"[('Clownfish', 'Swimming')]",0
+27609,PHKCILHH,test,"[('Fish', 'Swimming'), ('African Clawed Toad', 'Keeping still')]",0
+27687,PPXGZFGA,test,"[('Bird', 'Diving'), ('Fish', 'Swimming'), ('Bird', 'Swimming')]",0
+27721,PSYTRFFP,test,"[('Clownfish', 'Swimming'), ('Clownfish', 'Sensing')]",0
+27734,PUNQAUPH,test,"[('Tench Fish', 'Swimming')]",0
+27804,QCHPLMHZ,test,"[('Fish', 'Carrying In Mouth'), ('Natrix Tessellata Snake', 'Biting')]",0
+27821,QDSYAFGA,test,"[('Fish', 'Swimming')]",0
+27832,QEFXFFFP,test,"[('Mimic Blenny Fish', 'Swimming'), ('Mimic Blenny Fish', 'Sensing')]",0
+27835,QFAMDBSK,test,"[('Carcharias Taurus', 'Eating'), ('Fish', 'Swimming')]",0
+27853,QGFSAPIF,test,"[('Salmon', 'Jumping'), ('Grizzly Bear', 'Preying')]",0
+27923,QNGTOXFE,test,"[('Giant Trevally', 'Swimming')]",0
+27992,QTYJJFFP,test,"[('Clownfish', 'Exiting Nest')]",0
+28033,QYOYPNPL,test,"[('Bottlenose Dolphin', 'Swimming'), ('Pufferfish', 'Being Carried In Mouth'), ('Bottlenose Dolphin', 'Carrying In Mouth')]",0
+28046,RACYOHVR,test,"[('Perch Fish', 'Being Eaten'), ('Dice Snake', 'Eating')]",0
+28048,RAHCOIKV,test,"[('Stonefish', 'Eating'), ('Fish', 'Being Eaten'), ('Fish', 'Fleeing')]",1
+28075,RDMWVXFE,test,"[('Giant Trevally', 'Swimming')]",0
+28110,RHQFJHVR,test,"[('Dice Snake', 'Biting'), ('Perch Fish', 'Being Eaten')]",0
+28138,RKMZCFFP,test,"[('Fish', 'Swimming')]",0
+28230,RTWGOBSK,test,"[('Carcharhinus Limbatus', 'Attacking'), ('Fish', 'Swimming')]",0
+28234,RUDFXPIF,test,"[('Salmon', 'Jumping'), ('Grizzly Bear', 'Preying')]",0
+28356,SGFZLKGZ,test,"[('Sea Toad Fish', 'Keeping still'), ('Sea Toad Fish', 'Flapping Tail'), ('Sea Toad Fish', 'Sensing')]",0
+28367,SHEOGUPH,test,"[('Fish', 'Fleeing'), ('Pike Perch Fish', 'Swimming')]",1
+28398,SKUAWPAB,test,"[('Dice Snake', 'Biting'), ('Common Bleak', 'Being Carried In Mouth')]",0
+28403,SLHMBHVR,test,"[('Perch Fish', 'Swimming'), ('Dice Snake', 'Biting')]",0
+28406,SLNMAPAB,test,"[('Dice Snake', 'Biting'), ('Common Bleak', 'Being Carried In Mouth')]",0
+28438,SONMAGIW,test,"[('Grey Heron', 'Attending'), ('Fish', 'Being Carried In Mouth')]",0
+28487,SSQMJRGE,test,"[('Marine Iguana', 'Eating'), ('Fish', 'Swimming'), ('Fish', 'Eating'), ('Marine Iguana', 'Keeping still'), ('Fish', 'Keeping still')]",0
+28522,SYQIMFFP,test,"[('Pistol Shrimp', 'Digging'), ('Pistol Shrimp', 'Keeping still'), ('Yellow Watchman Goby Fish', 'Moving'), ('Yellow Watchman Goby Fish', 'Digging'), ('Yellow Watchman Goby Fish', 'Keeping still')]",0
+28548,TBNCRFFP,test,"[('Butterfly Fish', 'Swimming')]",0
+28615,TJGXVPIK,test,"[('Fish', 'Swimming')]",0
+28759,UABKUBSK,test,"[('Carcharhinus Galapagensis', 'Swimming'), ('Fish', 'Swimming')]",0
+28788,UDJGQNPL,test,"[('Bottlenose Dolphin', 'Swimming'), ('Pufferfish', 'Being Carried In Mouth'), ('Bottlenose Dolphin', 'Carrying In Mouth'), ('Pufferfish', 'Carrying In Mouth'), ('Bottlenose Dolphin', 'Being Carried In Mouth')]",0
+28816,UGQCAXFE,test,"[('Giant Trevally', 'Swimming')]",0
+28841,UITXIFFP,test,"[('Clownfish', 'Swimming')]",0
+28864,UKUQKFFP,test,"[('Fish', 'Swimming'), ('Dog Faced Water Snake', 'Keeping still')]",0
+28967,UVHGMPAB,test,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Being Carried In Mouth')]",0
+29091,VJJTIMHZ,test,"[('Natrix Tessellata Snake', 'Struggling'), ('Natrix Tessellata Snake', 'Biting'), ('Natrix Tessellata Snake', 'Sensing'), ('Fish', 'Struggling'), ('Fish', 'Biting'), ('Fish', 'Carrying In Mouth')]",1
+29109,VLUXZPAB,test,"[('Dice Snake', 'Biting'), ('Vimba Fish', 'Being Carried In Mouth')]",0
+29181,VSUNTFFP,test,"[('Butterfly Fish', 'Swimming')]",0
+29187,VTHRDPIK,test,"[('Fish', 'Swimming')]",0
+29201,VUYUERGE,test,"[('Fish', 'Swimming'), ('Marine Iguana', 'Keeping still')]",0
+29205,VVOWYFFP,test,"[('Pistol Shrimp', 'Digging'), ('Yellow Watchman Goby Fish', 'Keeping still')]",0
+29240,VZDZQXFE,test,"[('Giant Trevally', 'Swimming')]",0
+29277,WEFXLPIF,test,"[('Sardine', 'Fleeing'), ('Sardine', 'Swimming'), ('Sea Lion', 'Attacking')]",1
+29327,WJLNNMHZ,test,"[('Fish', 'Carrying In Mouth'), ('Natrix Tessellata Snake', 'Biting')]",0
+29383,WQHVXXEV,test,"[('Fish', 'Swimming')]",0
+29440,WXXJFMHZ,test,"[('Fish', 'Being Eaten'), ('Natrix Tessellata Snake', 'Eating')]",0
+29494,XDJURFFP,test,"[('Fish', 'Swimming')]",0
+29534,XIRHDKGZ,test,"[('Sea Toad Fish', 'Flapping Tail'), ('Sea Toad Fish', 'Sensing')]",0
+29564,XMGOKFFP,test,"[('Mimic Blenny Fish', 'Sensing'), ('Mimic Blenny Fish', 'Entering its nest')]",0
+29568,XMWDHBSK,test,"[('Fish', 'Swimming'), ('Carcharhinus Limbatus', 'Swimming')]",0
+29678,XZIABBSK,test,"[('Fish', 'Swimming'), ('Galeocerdo Cuvier', 'Swimming')]",0
+29728,YFOEBFFP,test,"[('Yellow Watchman Goby Fish', 'Exiting Nest')]",0
+29737,YGNKJKDQ,test,"[('Great Egret', 'Carrying In Mouth'), ('Fish', 'Being Eaten')]",0
+29745,YHGRYNPL,test,"[('Bottlenose Dolphin', 'Swimming'), ('Pufferfish', 'Swimming')]",0
+29916,ZDMRNBSK,test,"[('Fish', 'Swimming')]",0
+29953,ZIAGRPAB,test,"[('Dice Snake', 'Exploring'), ('Common Bleak', 'Immobilized')]",0
+29958,ZIQKWNPL,test,"[('Bottlenose Dolphin', 'Swimming'), ('Pufferfish', 'Swimming')]",0

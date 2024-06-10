@@ -104,7 +104,7 @@ def select_frames_evenly(video_path:str, total_frames:int, num_frames:int=10):
     selected_indices = np.linspace(0, total_frames - 1, num_frames, dtype=int).tolist()
     
     
-    return [item[0] for item in selected_indices]
+    return [item for item in selected_indices]
 
 def select_frames_motion_absdiff(video_path, total_frames=None, nr_frames=10):
     """

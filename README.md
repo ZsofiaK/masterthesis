@@ -1,4 +1,4 @@
-# The automatic detection of rare events in videos of wild animals
+# Detection of rare events in videos of wild animals
 ## MARINE, a computer vision model trained on fish predator attacks
 Zsófia Katona
 
@@ -6,7 +6,7 @@ MSc Information Studies, Data Science track, University of Amsterdam
 
 Institute of Biodiversity and Ecosystem Dynamics
 
-![Pipeline](Figures/pipeline_for_github.png)
+![Pipeline](Figures/pipeline_for_github.jpg)
 
 # Contents
 The thesis concerns action recognition to identify fish predator attacks in untrimmed video footage.

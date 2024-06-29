@@ -18,10 +18,10 @@ This repository includes directories related to the implementation of the projec
 The directories are described briefly below, and in more detail in their separate README files.
 
 ## Implementation
-The directory includes the implementation of all models and experiments used in the thesis.
+The directory includes the implementation of all models and experiments used in the thesis. More information on how to run the project is offered in the directory's README file.
 
 ## Tutorials
-The directory includes completed notebooks of tutorials related to Python libraries used in the study.
+The directory includes completed notebooks of tutorials related to techniques used in the study.
 
 ## Programming exercise
 The directory includes the implementation of a programming exercise aimed to kick-off the learning process of the technical aspects of the project.

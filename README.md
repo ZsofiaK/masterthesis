@@ -13,23 +13,16 @@ Institute of Biodiversity and Ecosystem Dynamics
 # Contents
 The thesis concerns action recognition to identify fish predator attacks in videos of marine habitats.
 
-This repository includes directories related to the implementation of the project.
-
-The directories are described briefly below, and in more detail in their separate README files.
+This repository includes the following directories:
 
 ## Implementation
-The directory includes the implementation of all models and experiments used in the thesis. More information on how to run the project is offered in the directory's README file.
+Includes the implementation of all models and experiments used in the thesis. More information on how to run the project is offered in the directory's README file.
 
 ## Tutorials
-The directory includes completed notebooks of tutorials related to techniques used in the study.
+Includes completed notebooks of tutorials related to techniques used in the study.
 
 ## Programming exercise
-The directory includes the implementation of a programming exercise aimed to kick-off the learning process of the technical aspects of the project.
+Includes the implementation of a programming exercise aimed to kick-off the learning process of the technical aspects of the project.
 
 ## Figures
-The directory includes figures used in the thesis and on the GitHub page.
-
-
-
-
-
+Includes figures used in the thesis and on the GitHub page.

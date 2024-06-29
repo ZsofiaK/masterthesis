@@ -6,6 +6,8 @@ MSc Information Studies, Data Science track, University of Amsterdam
 
 Institute of Biodiversity and Ecosystem Dynamics
 
+![Pipeline](Figures/pipeline_for_github.png)
+
 # Contents
 The thesis concerns action recognition to identify fish predator attacks in untrimmed video footage.
 

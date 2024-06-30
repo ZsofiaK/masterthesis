@@ -8,7 +8,7 @@ This directory contains the implementation of all the models and experiments use
 
 * The terminology used in the notebooks can sometimes differ slightly from the one used in the thesis paper. Most notably, the coral reef dataset is referred to as `fishClips` in the code, the AK fish dataset as `AK-fish`, and the representative sample of Animal Kingdom used in the multi-label setting as `AK-sample`.
 
-* The notebooks rely on the dataset being stored on Google Drive. Notebooks in the _Auxilliary_ folder ensure that the datasets are set up in the correct manner. However, all notebooks can of course be adapted to read the data and save results to other locations.
+* The notebooks rely on the datasets being stored on Google Drive. Notebooks in the _Auxilliary_ folder ensure that the datasets are set up in the correct manner. However, all notebooks can of course be adapted to read the data and save results to other locations.
 
 ---
 The directory is organized in the following folders.

@@ -23,5 +23,14 @@ Contains notebooks which help set up the datasets used in the project and run pr
 
 Furthermore, this directory includes two Python modules, `frame_selection` and `video_processing`, which are imported and used in some of the notebooks in the _Implementation_ directory. In these notebooks, the location of the module files are specified in the starting cells, and should be changed according to where the project is run (e.g., in Colab using Google Drive, or locally from the cloned repository).
 
-## Modules
-Contains modules which 
+## Benchmarking
+Contains notebooks which run the benchmarking experiments for the thesis. Specifically, applying VideoMAE to the AR task and MARINE G14 to the representative sample in the multi-label setting can be executed here.
+
+## EDA
+Contains notebooks related to Exploratory Data Analysis on the datasets, most importantly AK fish.
+
+## assets
+Contains metadata on the Animal Kingdom and AK fish datasets.
+
+## Experimentation
+Contains notebooks which are not directly relevant to executing the experiments for the thesis, but instead were used to explore different techniques and datasets, some of which were eventually integrated into the implementation of the project.

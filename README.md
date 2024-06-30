@@ -29,4 +29,4 @@ Includes figures used in the thesis and on the GitHub page.
 
 ---
 ## Acknowledgment
-This project was built with the kind help of the supervisors of the project, dr. Fatemeh Karimi Nejadasl, dr. Ben Martin, and dr. Sahand Mohammadi Ziabari, and using datasets provided by the Institute for Biodiversity and Ecosystem Dynamics at the University of Amsterdam.
+This project was built with the kind help of the supervisors of the thesis, dr. Fatemeh Karimi Nejadasl, dr. Ben Martin, and dr. Sahand Mohammadi Ziabari, and using datasets provided by the Institute for Biodiversity and Ecosystem Dynamics at the University of Amsterdam.

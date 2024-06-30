@@ -10,19 +10,23 @@ Institute of Biodiversity and Ecosystem Dynamics
 
 ---
 
-# Contents
+## Contents
 The thesis concerns action recognition to identify fish predator attacks in videos of marine habitats.
 
 This repository includes the following directories:
 
-## Implementation
+### Implementation
 Includes the implementation of all models and experiments used in the thesis. More information on how to run the project is offered in the directory's README file.
 
-## Tutorials
+### Tutorials
 Includes completed notebooks of tutorials related to techniques used in the study.
 
-## Programming exercise
+### Programming exercise
 Includes the implementation of a programming exercise aimed to kick-off the learning process of the technical aspects of the project.
 
-## Figures
+### Figures
 Includes figures used in the thesis and on the GitHub page.
+
+---
+## Acknowledgment
+This project was built with the kind help of the supervisors of the project, dr. Fatemeh Karimi Nejadasl, dr. Ben Martin, and dr. Sahand Mohammadi Ziabari, and using datasets provided by the Institute for Biodiversity and Ecosystem Dynamics at the University of Amsterdam.
